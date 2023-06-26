@@ -1,0 +1,2205 @@
+	Language	Subdomain	Concept	TotalFreq
+0	Aari	parents	father	2024377
+1	Aari	parents	mother	2024377
+2	Aari	children	son	2024377
+3	Aari	children	daughter	2024377
+4	Aari	grandparents	grandparent	2024377
+5	Aari	siblings	elder brother	2024377
+6	Aari	siblings	younger brother	2024377
+7	Aari	siblings	elder sister	2024377
+8	Aari	siblings	younger sister	2024377
+9	Adyghe	parents	father	1868765
+10	Adyghe	parents	mother	1868765
+11	Adyghe	children	son	1868765
+12	Adyghe	children	daughter	1868765
+13	Adyghe	siblings	brother	1868765
+14	Adyghe	siblings	sister	1868765
+15	Afrikaans	parents	father	3008629
+16	Afrikaans	parents	mother	3008629
+17	Afrikaans	children	son	3008629
+18	Afrikaans	children	daughter	3008629
+19	Afrikaans	cousins	male cousin	3008629
+20	Afrikaans	cousins	female cousin	3008629
+21	Afrikaans	grandchildren	grandchild	3008629
+22	Afrikaans	grandchildren	grandson	3008629
+23	Afrikaans	grandchildren	granddaughter	3008629
+24	Afrikaans	grandparents	grandfather	3008629
+25	Afrikaans	grandparents	grandmother	3008629
+26	Afrikaans	nephews and nieces	nephew	3008629
+27	Afrikaans	nephews and nieces	niece	3008629
+28	Afrikaans	uncles and aunts	aunt	3008629
+29	Afrikaans	uncles and aunts	uncle	3008629
+30	Afrikaans	siblings	brother	3008629
+31	Afrikaans	siblings	sister	3008629
+32	Ainu	parents	father	2298656
+33	Ainu	parents	mother	2298656
+34	Ainu	children	son	2298656
+35	Ainu	children	daughter	2298656
+36	Ainu	cousins	cousin	2298656
+37	Ainu	grandchildren	grandchild	2298656
+38	Ainu	grandparents	grandmother	2298656
+39	Ainu	grandparents	grandfather	2298656
+40	Ainu	nephews and nieces	nephew	2298656
+41	Ainu	nephews and nieces	niece	2298656
+42	Ainu	uncles and aunts	uncle	2298656
+43	Ainu	uncles and aunts	aunt	2298656
+44	Ainu	siblings	sibling	2298656
+45	Ainu	siblings	elder brother	2298656
+46	Ainu	siblings	elder sister	2298656
+47	Ainu	siblings	younger brother	2298656
+48	Ainu	siblings	younger sister (male speaking)	2298656
+49	Ainu	siblings	younger sister (female speaking)	2298656
+50	Akkadian	parents	father	1868765
+51	Akkadian	parents	mother	1868765
+52	Akkadian	children	son	1868765
+53	Akkadian	children	daughter	1868765
+54	Akkadian	siblings	brother	1868765
+55	Akkadian	siblings	sister	1868765
+56	Albanian	parents	father	2942149
+57	Albanian	parents	mother	2942149
+58	Albanian	children	son	2942149
+59	Albanian	children	daughter	2942149
+60	Albanian	cousins	male cousin	2942149
+61	Albanian	cousins	female cousin	2942149
+62	Albanian	grandchildren	grandson	2942149
+63	Albanian	grandchildren	granddaughter	2942149
+64	Albanian	grandparents	grandfather	2942149
+65	Albanian	grandparents	grandmother	2942149
+66	Albanian	nephews and nieces	nephew	2942149
+67	Albanian	nephews and nieces	niece	2942149
+68	Albanian	uncles and aunts	paternal uncle	2942149
+69	Albanian	uncles and aunts	maternal uncle	2942149
+70	Albanian	uncles and aunts	paternal aunt	2942149
+71	Albanian	uncles and aunts	maternal aunt	2942149
+72	Albanian	siblings	brother	2942149
+73	Albanian	siblings	sister	2942149
+74	Aleut	parents	father	2990929
+75	Aleut	parents	mother	2990929
+76	Aleut	children	son	2990929
+77	Aleut	children	daughter	2990929
+78	Aleut	cousins	son of father's brother (male speaking)	2990929
+79	Aleut	cousins	son of mother's sister (male speaking)	2990929
+80	Aleut	cousins	daughter of father's brother (female speaking)	2990929
+81	Aleut	cousins	daughter of mother's sister (female speaking)	2990929
+82	Aleut	cousins	daughter of father's brother (male speaking)	2990929
+83	Aleut	cousins	daughter of mother's sister (male speaking)	2990929
+84	Aleut	cousins	son of father's brother (female speaking)	2990929
+85	Aleut	cousins	son of mother's sister (female speaking)	2990929
+86	Aleut	cousins	child of mother's brother	2990929
+87	Aleut	cousins	child of father's sister	2990929
+88	Aleut	grandchildren	grandchild	2990929
+89	Aleut	grandparents	grandfather	2990929
+90	Aleut	grandparents	grandmother	2990929
+91	Aleut	nephews and nieces	brother's son (male speaking)	2990929
+92	Aleut	nephews and nieces	sister's son (female speaking)	2990929
+93	Aleut	nephews and nieces	brother's daughter (male speaking)	2990929
+94	Aleut	nephews and nieces	sister's daughter (female speaking)	2990929
+95	Aleut	nephews and nieces	sister's child (male speaking)	2990929
+96	Aleut	nephews and nieces	brother's child (female speaking)	2990929
+97	Aleut	uncles and aunts	paternal uncle	2990929
+98	Aleut	uncles and aunts	maternal uncle	2990929
+99	Aleut	uncles and aunts	paternal aunt	2990929
+100	Aleut	uncles and aunts	maternal aunt	2990929
+101	Aleut	siblings	brother (male speaking)	2990929
+102	Aleut	siblings	brother (female speaking)	2990929
+103	Aleut	siblings	sister (male speaking)	2990929
+104	Aleut	siblings	sister (female speaking)	2990929
+105	Amharic	parents	father	1950092
+106	Amharic	parents	mother	1950092
+107	Amharic	children	son	1950092
+108	Amharic	children	daughter	1950092
+109	Amharic	cousins	child of parent's brother	1950092
+110	Amharic	cousins	child of parent's sister	1950092
+111	Amharic	grandchildren	grandchild	1950092
+112	Amharic	grandparents	grandparent	1950092
+113	Amharic	nephews and nieces	brother's child	1950092
+114	Amharic	nephews and nieces	sister's child	1950092
+115	Amharic	uncles and aunts	uncle	1950092
+116	Amharic	uncles and aunts	aunt	1950092
+117	Amharic	siblings	brother	1950092
+118	Amharic	siblings	sister	1950092
+119	Arabic	parents	father	2098725
+120	Arabic	parents	mother	2098725
+121	Arabic	children	son	2098725
+122	Arabic	children	daughter	2098725
+123	Arabic	cousins	son of father's brother	2098725
+124	Arabic	cousins	daughter of father's brother	2098725
+125	Arabic	cousins	son of father's sister	2098725
+126	Arabic	cousins	daughter of father's sister	2098725
+127	Arabic	cousins	son of mother's brother	2098725
+128	Arabic	cousins	daughter of mother's brother	2098725
+129	Arabic	cousins	son of mother's sister	2098725
+130	Arabic	cousins	daughter of mother's sister	2098725
+131	Arabic	cousins	son of parent's brother	2098725
+132	Arabic	cousins	daughter of parent's brother	2098725
+133	Arabic	cousins	son of parent's sister	2098725
+134	Arabic	cousins	daughter of parent's sister	2098725
+135	Arabic	grandchildren	grandson	2098725
+136	Arabic	grandchildren	granddaughter	2098725
+137	Arabic	grandparents	grandfather	2098725
+138	Arabic	grandparents	grandmother	2098725
+139	Arabic	nephews and nieces	brother's son	2098725
+140	Arabic	nephews and nieces	sister's son	2098725
+141	Arabic	nephews and nieces	brother's daughter	2098725
+142	Arabic	nephews and nieces	sister's daughter	2098725
+143	Arabic	uncles and aunts	paternal uncle	2098725
+144	Arabic	uncles and aunts	maternal uncle	2098725
+145	Arabic	uncles and aunts	paternal aunt	2098725
+146	Arabic	uncles and aunts	maternal aunt	2098725
+147	Arabic	siblings	brother	2098725
+148	Arabic	siblings	sister	2098725
+149	Archi	parents	father	1868765
+150	Archi	parents	mother	1868765
+151	Archi	children	son	1868765
+152	Archi	children	daughter	1868765
+153	Archi	siblings	brother	1868765
+154	Archi	siblings	sister	1868765
+155	Armenian	parents	father	2896623
+156	Armenian	parents	mother	2896623
+157	Armenian	children	son	2896623
+158	Armenian	children	daughter	2896623
+159	Armenian	cousins	male cousin	2896623
+160	Armenian	cousins	female cousin	2896623
+161	Armenian	grandchildren	grandchild	2896623
+162	Armenian	grandparents	grandfather	2896623
+163	Armenian	grandparents	grandmother	2896623
+164	Armenian	nephews and nieces	brother's son	2896623
+165	Armenian	nephews and nieces	sister's son	2896623
+166	Armenian	nephews and nieces	brother's daughter	2896623
+167	Armenian	nephews and nieces	sister's daughter	2896623
+168	Armenian	uncles and aunts	paternal uncle	2896623
+169	Armenian	uncles and aunts	maternal uncle	2896623
+170	Armenian	uncles and aunts	paternal aunt	2896623
+171	Armenian	uncles and aunts	maternal aunt	2896623
+172	Armenian	siblings	brother	2896623
+173	Armenian	siblings	sister	2896623
+174	Aromanian	parents	father	2023711
+175	Aromanian	parents	mother	2023711
+176	Aromanian	children	son	2023711
+177	Aromanian	children	daughter	2023711
+178	Aromanian	grandparents	grandmother	2023711
+179	Aromanian	grandparents	grandfather	2023711
+180	Aromanian	nephews and nieces	nephew	2023711
+181	Aromanian	nephews and nieces	niece	2023711
+182	Aromanian	siblings	brother	2023711
+183	Aromanian	siblings	sister	2023711
+184	Assamese	parents	father	2192875
+185	Assamese	parents	mother	2192875
+186	Assamese	children	son	2192875
+187	Assamese	children	daughter	2192875
+188	Assamese	uncles and aunts	father's elder brother	2192875
+189	Assamese	uncles and aunts	father's younger brother	2192875
+190	Assamese	uncles and aunts	maternal uncle	2192875
+191	Assamese	uncles and aunts	parent's elder sister	2192875
+192	Assamese	uncles and aunts	father's younger sister	2192875
+193	Assamese	uncles and aunts	mother's younger sister	2192875
+194	Assamese	siblings	elder brother	2192875
+195	Assamese	siblings	younger brother	2192875
+196	Assamese	siblings	elder sister	2192875
+197	Assamese	siblings	younger sister	2192875
+198	Asturian	parents	father	3007460
+199	Asturian	parents	mother	3007460
+200	Asturian	children	son	3007460
+201	Asturian	children	daughter	3007460
+202	Asturian	cousins	male cousin	3007460
+203	Asturian	cousins	female cousin	3007460
+204	Asturian	grandchildren	grandson	3007460
+205	Asturian	grandchildren	granddaughter	3007460
+206	Asturian	grandparents	grandfather	3007460
+207	Asturian	grandparents	grandmother	3007460
+208	Asturian	nephews and nieces	nephew	3007460
+209	Asturian	nephews and nieces	niece	3007460
+210	Asturian	uncles and aunts	uncle	3007460
+211	Asturian	uncles and aunts	aunt	3007460
+212	Asturian	siblings	brother	3007460
+213	Asturian	siblings	sister	3007460
+214	Azerbaijani	parents	father	1632314
+215	Azerbaijani	parents	mother	1632314
+216	Azerbaijani	children	son	1632314
+217	Azerbaijani	children	daughter	1632314
+218	Azerbaijani	grandparents	grandfather	1632314
+219	Azerbaijani	grandparents	grandmother	1632314
+220	Azerbaijani	uncles and aunts	paternal uncle	1632314
+221	Azerbaijani	uncles and aunts	maternal uncle	1632314
+222	Azerbaijani	uncles and aunts	paternal aunt	1632314
+223	Azerbaijani	uncles and aunts	maternal aunt	1632314
+224	Baluchi	parents	father	1868765
+225	Baluchi	parents	mother	1868765
+226	Baluchi	children	son	1868765
+227	Baluchi	children	daughter	1868765
+228	Baluchi	siblings	brother	1868765
+229	Baluchi	siblings	sister	1868765
+230	Basque	parents	father	3054795
+231	Basque	parents	mother	3054795
+232	Basque	children	son	3054795
+233	Basque	children	daughter	3054795
+234	Basque	grandparents	grandfather	3054795
+235	Basque	grandparents	grandmother	3054795
+236	Basque	uncles and aunts	uncle	3054795
+237	Basque	uncles and aunts	aunt	3054795
+238	Basque	siblings	brother (male speaking)	3054795
+239	Basque	siblings	brother (female speaking)	3054795
+240	Basque	siblings	sister (male speaking)	3054795
+241	Basque	siblings	sister (female speaking)	3054795
+242	Belarusian	parents	father	3007460
+243	Belarusian	parents	mother	3007460
+244	Belarusian	children	son	3007460
+245	Belarusian	children	daughter	3007460
+246	Belarusian	cousins	male cousin	3007460
+247	Belarusian	cousins	female cousin	3007460
+248	Belarusian	grandchildren	grandson	3007460
+249	Belarusian	grandchildren	granddaughter	3007460
+250	Belarusian	grandparents	grandfather	3007460
+251	Belarusian	grandparents	grandmother	3007460
+252	Belarusian	nephews and nieces	nephew	3007460
+253	Belarusian	nephews and nieces	niece	3007460
+254	Belarusian	uncles and aunts	uncle	3007460
+255	Belarusian	uncles and aunts	aunt	3007460
+256	Belarusian	siblings	brother	3007460
+257	Belarusian	siblings	sister	3007460
+258	Bengali	parents	father	1869586
+259	Bengali	parents	mother	1869586
+260	Bengali	children	son	1869586
+261	Bengali	children	daughter	1869586
+262	Bengali	siblings	sibling	1869586
+263	Bengali	siblings	brother	1869586
+264	Bengali	siblings	sister	1869586
+265	Breton	parents	father	2060530
+266	Breton	parents	mother	2060530
+267	Breton	children	son	2060530
+268	Breton	children	daughter	2060530
+269	Breton	grandparents	grandfather	2060530
+270	Breton	grandparents	grandmother	2060530
+271	Breton	uncles and aunts	uncle	2060530
+272	Breton	uncles and aunts	aunt	2060530
+273	Breton	siblings	brother	2060530
+274	Breton	siblings	sister	2060530
+275	Bulgarian	parents	father	2069308
+276	Bulgarian	parents	mother	2069308
+277	Bulgarian	children	son	2069308
+278	Bulgarian	children	daughter	2069308
+279	Bulgarian	grandchildren	grandson	2069308
+280	Bulgarian	grandchildren	granddaughter	2069308
+281	Bulgarian	grandparents	grandfather	2069308
+282	Bulgarian	grandparents	grandmother	2069308
+283	Bulgarian	nephews and nieces	nephew	2069308
+284	Bulgarian	nephews and nieces	niece	2069308
+285	Bulgarian	uncles and aunts	paternal uncle	2069308
+286	Bulgarian	uncles and aunts	maternal uncle	2069308
+287	Bulgarian	uncles and aunts	aunt	2069308
+288	Bulgarian	siblings	brother	2069308
+289	Bulgarian	siblings	sister	2069308
+290	Burmese	parents	father	1632431
+291	Burmese	parents	mother	1632431
+292	Burmese	children	son	1632431
+293	Burmese	children	daughter	1632431
+294	Burmese	grandchildren	grandchild	1632431
+295	Burmese	grandparents	grandfather	1632431
+296	Burmese	grandparents	grandmother	1632431
+297	Buryat	parents	father	1713645
+298	Buryat	parents	mother	1713645
+299	Buryat	children	son	1713645
+300	Buryat	children	daughter	1713645
+301	Buryat	siblings	elder brother	1713645
+302	Buryat	siblings	younger sibling	1713645
+303	Buryat	siblings	elder sister	1713645
+304	Cantonese	parents	father	2866628
+305	Cantonese	parents	mother	2866628
+306	Cantonese	children	son	2866628
+307	Cantonese	children	daughter	2866628
+308	Cantonese	cousins	elder, son of father's brother	2866628
+309	Cantonese	cousins	younger, son of father's brother	2866628
+310	Cantonese	cousins	elder, daughter of father's brother	2866628
+311	Cantonese	cousins	younger, daughter of father's brother	2866628
+312	Cantonese	cousins	elder, son of mother's sibling	2866628
+313	Cantonese	cousins	elder, son of father's sister	2866628
+314	Cantonese	cousins	younger, son of mother's sibling	2866628
+315	Cantonese	cousins	younger, son of father's sister	2866628
+316	Cantonese	cousins	elder, daughter of mother's sibling	2866628
+317	Cantonese	cousins	elder, daughter of father's sister	2866628
+318	Cantonese	cousins	younger, daughter of mother's sibling	2866628
+319	Cantonese	cousins	younger, daughter of father's sister	2866628
+320	Cantonese	grandchildren	grandchild	2866628
+321	Cantonese	grandchildren	son's son	2866628
+322	Cantonese	grandchildren	daughter's son	2866628
+323	Cantonese	grandchildren	son's daughter	2866628
+324	Cantonese	grandchildren	daughter's daughter	2866628
+325	Cantonese	grandparents	paternal grandfather	2866628
+326	Cantonese	grandparents	paternal grandmother	2866628
+327	Cantonese	grandparents	maternal grandfather	2866628
+328	Cantonese	grandparents	maternal grandmother	2866628
+329	Cantonese	nephews and nieces	brother's son	2866628
+330	Cantonese	nephews and nieces	sister's son	2866628
+331	Cantonese	nephews and nieces	brother's daughter	2866628
+332	Cantonese	nephews and nieces	sister's daughter	2866628
+333	Cantonese	siblings	elder brother	2866628
+334	Cantonese	siblings	younger brother	2866628
+335	Cantonese	siblings	elder sister	2866628
+336	Cantonese	siblings	younger sister	2866628
+337	Catalan	parents	father	3007460
+338	Catalan	parents	mother	3007460
+339	Catalan	children	son	3007460
+340	Catalan	children	daughter	3007460
+341	Catalan	cousins	male cousin	3007460
+342	Catalan	cousins	female cousin	3007460
+343	Catalan	grandchildren	grandson	3007460
+344	Catalan	grandchildren	granddaughter	3007460
+345	Catalan	grandparents	grandfather	3007460
+346	Catalan	grandparents	grandmother	3007460
+347	Catalan	nephews and nieces	nephew	3007460
+348	Catalan	nephews and nieces	niece	3007460
+349	Catalan	uncles and aunts	uncle	3007460
+350	Catalan	uncles and aunts	aunt	3007460
+351	Catalan	siblings	brother	3007460
+352	Catalan	siblings	sister	3007460
+353	Chamicuro	parents	father	1631262
+354	Chamicuro	parents	mother	1631262
+355	Chamicuro	children	son	1631262
+356	Chamicuro	children	daughter	1631262
+357	Chamicuro	grandparents	grandfather	1631262
+358	Chamicuro	grandparents	grandmother	1631262
+359	Chechen	parents	father	1868765
+360	Chechen	parents	mother	1868765
+361	Chechen	children	son	1868765
+362	Chechen	children	daughter	1868765
+363	Chechen	siblings	brother	1868765
+364	Chechen	siblings	sister	1868765
+365	Chinook Jargon	parents	father	2019309
+366	Chinook Jargon	parents	mother	2019309
+367	Chinook Jargon	children	son	2019309
+368	Chinook Jargon	children	daughter	2019309
+369	Chinook Jargon	grandparents	grandfather	2019309
+370	Chinook Jargon	grandparents	grandmother	2019309
+371	Chinook Jargon	uncles and aunts	uncle	2019309
+372	Chinook Jargon	uncles and aunts	aunt	2019309
+373	Chinook Jargon	siblings	younger brother	2019309
+374	Chinook Jargon	siblings	younger sister	2019309
+375	Chinook Jargon	siblings	elder sibling	2019309
+376	Classical Syriac	parents	father	1868765
+377	Classical Syriac	parents	mother	1868765
+378	Classical Syriac	children	son	1868765
+379	Classical Syriac	children	daughter	1868765
+380	Classical Syriac	siblings	brother	1868765
+381	Classical Syriac	siblings	sister	1868765
+382	Comanche	parents	father	2024218
+383	Comanche	parents	mother	2024218
+384	Comanche	children	son	2024218
+385	Comanche	children	daughter	2024218
+386	Comanche	siblings	younger brother	2024218
+387	Comanche	siblings	elder brother	2024218
+388	Comanche	siblings	elder sister	2024218
+389	Comanche	siblings	younger sister	2024218
+390	Coptic	parents	father	1868765
+391	Coptic	parents	mother	1868765
+392	Coptic	children	son	1868765
+393	Coptic	children	daughter	1868765
+394	Coptic	siblings	brother	1868765
+395	Coptic	siblings	sister	1868765
+396	Czech	parents	father	3007460
+397	Czech	parents	mother	3007460
+398	Czech	children	son	3007460
+399	Czech	children	daughter	3007460
+400	Czech	cousins	male cousin	3007460
+401	Czech	cousins	female cousin	3007460
+402	Czech	grandchildren	grandson	3007460
+403	Czech	grandchildren	granddaughter	3007460
+404	Czech	grandparents	grandmother	3007460
+405	Czech	grandparents	grandfather	3007460
+406	Czech	nephews and nieces	nephew	3007460
+407	Czech	nephews and nieces	niece	3007460
+408	Czech	uncles and aunts	uncle	3007460
+409	Czech	uncles and aunts	aunt	3007460
+410	Czech	siblings	brother	3007460
+411	Czech	siblings	sister	3007460
+412	Dalmatian	parents	father	1898309
+413	Dalmatian	parents	mother	1898309
+414	Dalmatian	children	son	1898309
+415	Dalmatian	children	daughter	1898309
+416	Dalmatian	nephews and nieces	nephew	1898309
+417	Dalmatian	nephews and nieces	niece	1898309
+418	Dalmatian	siblings	brother	1898309
+419	Dalmatian	siblings	sister	1898309
+420	Danish	parents	father	2992220
+421	Danish	parents	mother	2992220
+422	Danish	children	son	2992220
+423	Danish	children	daughter	2992220
+424	Danish	cousins	male cousin	2992220
+425	Danish	cousins	female cousin	2992220
+426	Danish	grandchildren	grandchild	2992220
+427	Danish	grandchildren	son's son	2992220
+428	Danish	grandchildren	daughter's son	2992220
+429	Danish	grandchildren	son's daughter	2992220
+430	Danish	grandchildren	daughter's daughter	2992220
+431	Danish	grandparents	grandfather	2992220
+432	Danish	grandparents	grandmother	2992220
+433	Danish	nephews and nieces	nephew	2992220
+434	Danish	nephews and nieces	niece	2992220
+435	Danish	uncles and aunts	uncle	2992220
+436	Danish	uncles and aunts	paternal uncle	2992220
+437	Danish	uncles and aunts	maternal uncle	2992220
+438	Danish	uncles and aunts	aunt	2992220
+439	Danish	uncles and aunts	paternal aunt	2992220
+440	Danish	uncles and aunts	maternal aunt	2992220
+441	Danish	siblings	brother	2992220
+442	Danish	siblings	sister	2992220
+443	Dutch	parents	father	3008788
+444	Dutch	parents	mother	3008788
+445	Dutch	children	son	3008788
+446	Dutch	children	daughter	3008788
+447	Dutch	cousins	male cousin	3008788
+448	Dutch	cousins	female cousin	3008788
+449	Dutch	grandchildren	grandchild	3008788
+450	Dutch	grandchildren	grandson	3008788
+451	Dutch	grandchildren	granddaughter	3008788
+452	Dutch	grandparents	grandparent	3008788
+453	Dutch	grandparents	grandfather	3008788
+454	Dutch	grandparents	grandmother	3008788
+455	Dutch	nephews and nieces	nephew	3008788
+456	Dutch	nephews and nieces	niece	3008788
+457	Dutch	uncles and aunts	uncle	3008788
+458	Dutch	uncles and aunts	aunt	3008788
+459	Dutch	siblings	brother	3008788
+460	Dutch	siblings	sister	3008788
+461	English	parents	father	2151971
+462	English	parents	mother	2151971
+463	English	children	son	2151971
+464	English	children	daughter	2151971
+465	English	cousins	cousin	2151971
+466	English	grandchildren	grandchild	2151971
+467	English	grandchildren	grandson	2151971
+468	English	grandchildren	granddaughter	2151971
+469	English	grandparents	grandparent	2151971
+470	English	grandparents	grandfather	2151971
+471	English	grandparents	grandmother	2151971
+472	English	nephews and nieces	nephew	2151971
+473	English	nephews and nieces	niece	2151971
+474	English	uncles and aunts	uncle	2151971
+475	English	uncles and aunts	aunt	2151971
+476	English	siblings	sibling	2151971
+477	English	siblings	brother	2151971
+478	English	siblings	sister	2151971
+479	Esperanto	parents	father	3009450
+480	Esperanto	parents	mother	3009450
+481	Esperanto	children	son	3009450
+482	Esperanto	children	daughter	3009450
+483	Esperanto	cousins	male cousin	3009450
+484	Esperanto	cousins	female cousin	3009450
+485	Esperanto	grandchildren	grandchild	3009450
+486	Esperanto	grandchildren	grandson	3009450
+487	Esperanto	grandchildren	granddaughter	3009450
+488	Esperanto	grandparents	grandfather	3009450
+489	Esperanto	grandparents	grandmother	3009450
+490	Esperanto	nephews and nieces	nibling	3009450
+491	Esperanto	nephews and nieces	nephew	3009450
+492	Esperanto	nephews and nieces	niece	3009450
+493	Esperanto	uncles and aunts	auncle	3009450
+494	Esperanto	uncles and aunts	uncle	3009450
+495	Esperanto	uncles and aunts	aunt	3009450
+496	Esperanto	siblings	sibling	3009450
+497	Esperanto	siblings	brother	3009450
+498	Esperanto	siblings	sister	3009450
+499	Estonian	parents	father	2118881
+500	Estonian	parents	mother	2118881
+501	Estonian	children	son	2118881
+502	Estonian	children	daughter	2118881
+503	Estonian	cousins	cousin	2118881
+504	Estonian	cousins	son of parent's brother	2118881
+505	Estonian	cousins	daughter of parent's brother	2118881
+506	Estonian	cousins	son of parent's sister	2118881
+507	Estonian	cousins	daughter of parent's sister	2118881
+508	Estonian	grandparents	grandfather	2118881
+509	Estonian	grandparents	grandmother	2118881
+510	Estonian	nephews and nieces	brother's son	2118881
+511	Estonian	nephews and nieces	sister's son	2118881
+512	Estonian	nephews and nieces	brother's daughter	2118881
+513	Estonian	nephews and nieces	sister's daughter	2118881
+514	Estonian	uncles and aunts	uncle	2118881
+515	Estonian	uncles and aunts	aunt	2118881
+516	Estonian	siblings	brother	2118881
+517	Estonian	siblings	sister	2118881
+518	Ewe	parents	father	2114447
+519	Ewe	parents	mother	2114447
+520	Ewe	children	son	2114447
+521	Ewe	children	daughter	2114447
+522	Ewe	cousins	elder male cousin	2114447
+523	Ewe	cousins	elder female cousin	2114447
+524	Ewe	cousins	younger cousin	2114447
+525	Ewe	grandchildren	grandchild (male speaking)	2114447
+526	Ewe	grandchildren	grandchild (female speaking)	2114447
+527	Ewe	grandparents	grandfather	2114447
+528	Ewe	grandparents	grandmother	2114447
+529	Ewe	uncles and aunts	father's elder brother	2114447
+530	Ewe	uncles and aunts	father's younger brother	2114447
+531	Ewe	uncles and aunts	maternal uncle	2114447
+532	Ewe	uncles and aunts	paternal aunt	2114447
+533	Ewe	uncles and aunts	mother's elder sister	2114447
+534	Ewe	uncles and aunts	mother's younger sister	2114447
+535	Faroese	parents	father	1994167
+536	Faroese	parents	mother	1994167
+537	Faroese	children	son	1994167
+538	Faroese	children	daughter	1994167
+539	Faroese	grandchildren	son's son	1994167
+540	Faroese	grandchildren	daughter's son	1994167
+541	Faroese	grandchildren	son's daughter	1994167
+542	Faroese	grandchildren	daughter's daughter	1994167
+543	Faroese	grandparents	grandfather	1994167
+544	Faroese	grandparents	grandmother	1994167
+545	Faroese	siblings	brother	1994167
+546	Faroese	siblings	sister	1994167
+547	Finnish	parents	father	2139382
+548	Finnish	parents	mother	2139382
+549	Finnish	children	son	2139382
+550	Finnish	children	daughter	2139382
+551	Finnish	grandchildren	grandchild	2139382
+552	Finnish	grandchildren	son's son	2139382
+553	Finnish	grandchildren	daughter's son	2139382
+554	Finnish	grandchildren	son's daughter	2139382
+555	Finnish	grandchildren	daughter's daughter	2139382
+556	Finnish	grandparents	grandparent	2139382
+557	Finnish	grandparents	grandfather	2139382
+558	Finnish	grandparents	grandmother	2139382
+559	Finnish	grandparents	paternal grandfather	2139382
+560	Finnish	grandparents	maternal grandfather	2139382
+561	Finnish	grandparents	maternal grandmother	2139382
+562	Finnish	grandparents	paternal grandmother	2139382
+563	Finnish	nephews and nieces	brother's son	2139382
+564	Finnish	nephews and nieces	sister's son	2139382
+565	Finnish	nephews and nieces	brother's daughter	2139382
+566	Finnish	nephews and nieces	sister's daughter	2139382
+567	Finnish	uncles and aunts	paternal uncle	2139382
+568	Finnish	uncles and aunts	maternal uncle	2139382
+569	Finnish	uncles and aunts	aunt	2139382
+570	Finnish	siblings	brother	2139382
+571	Finnish	siblings	sister	2139382
+572	French	parents	father	3527146
+573	French	parents	mother	3527146
+574	French	children	son	3527146
+575	French	children	daughter	3527146
+576	French	cousins	male cousin	3527146
+577	French	cousins	female cousin	3527146
+578	French	grandchildren	grandchild	3527146
+579	French	grandchildren	grandson	3527146
+580	French	grandchildren	granddaughter	3527146
+581	French	grandparents	grandparent	3527146
+582	French	grandparents	grandfather	3527146
+583	French	grandparents	grandmother	3527146
+584	French	nephews and nieces	nephew	3527146
+585	French	nephews and nieces	niece	3527146
+586	French	uncles and aunts	uncle	3527146
+587	French	uncles and aunts	aunt	3527146
+588	French	siblings	brother	3527146
+589	French	siblings	sister	3527146
+590	French	siblings	elder brother	3527146
+591	French	siblings	elder sister	3527146
+592	French	siblings	younger brother	3527146
+593	French	siblings	younger sister	3527146
+594	Friulian	parents	father	2090074
+595	Friulian	parents	mother	2090074
+596	Friulian	children	son	2090074
+597	Friulian	children	daughter	2090074
+598	Friulian	grandparents	grandfather	2090074
+599	Friulian	grandparents	grandmother	2090074
+600	Friulian	nephews and nieces	nephew	2090074
+601	Friulian	nephews and nieces	niece	2090074
+602	Friulian	uncles and aunts	uncle	2090074
+603	Friulian	uncles and aunts	aunt	2090074
+604	Friulian	siblings	brother	2090074
+605	Friulian	siblings	sister	2090074
+606	Galician	parents	father	3007460
+607	Galician	parents	mother	3007460
+608	Galician	children	son	3007460
+609	Galician	children	daughter	3007460
+610	Galician	cousins	male cousin	3007460
+611	Galician	cousins	female cousin	3007460
+612	Galician	grandchildren	grandson	3007460
+613	Galician	grandchildren	granddaughter	3007460
+614	Galician	grandparents	grandfather	3007460
+615	Galician	grandparents	grandmother	3007460
+616	Galician	nephews and nieces	nephew	3007460
+617	Galician	nephews and nieces	niece	3007460
+618	Galician	uncles and aunts	uncle	3007460
+619	Galician	uncles and aunts	aunt	3007460
+620	Galician	siblings	brother	3007460
+621	Galician	siblings	sister	3007460
+622	Georgian	parents	father	2047083
+623	Georgian	parents	mother	2047083
+624	Georgian	children	son	2047083
+625	Georgian	children	daughter	2047083
+626	Georgian	grandparents	grandfather	2047083
+627	Georgian	grandparents	grandmother	2047083
+628	Georgian	nephews and nieces	sister's child	2047083
+629	Georgian	nephews and nieces	brother's child	2047083
+630	Georgian	uncles and aunts	uncle	2047083
+631	Georgian	uncles and aunts	paternal aunt	2047083
+632	Georgian	uncles and aunts	maternal aunt	2047083
+633	Georgian	siblings	brother	2047083
+634	Georgian	siblings	sister	2047083
+635	German	parents	father	3008629
+636	German	parents	mother	3008629
+637	German	children	son	3008629
+638	German	children	daughter	3008629
+639	German	cousins	male cousin	3008629
+640	German	cousins	female cousin	3008629
+641	German	grandchildren	grandchild	3008629
+642	German	grandchildren	grandson	3008629
+643	German	grandchildren	granddaughter	3008629
+644	German	grandparents	grandfather	3008629
+645	German	grandparents	grandmother	3008629
+646	German	nephews and nieces	nephew	3008629
+647	German	nephews and nieces	niece	3008629
+648	German	uncles and aunts	uncle	3008629
+649	German	uncles and aunts	aunt	3008629
+650	German	siblings	brother	3008629
+651	German	siblings	sister	3008629
+652	Greek	parents	father	3008629
+653	Greek	parents	mother	3008629
+654	Greek	children	son	3008629
+655	Greek	children	daughter	3008629
+656	Greek	cousins	male cousin	3008629
+657	Greek	cousins	female cousin	3008629
+658	Greek	grandchildren	grandchild	3008629
+659	Greek	grandchildren	grandson	3008629
+660	Greek	grandchildren	granddaughter	3008629
+661	Greek	grandparents	grandfather	3008629
+662	Greek	grandparents	grandmother	3008629
+663	Greek	nephews and nieces	nephew	3008629
+664	Greek	nephews and nieces	niece	3008629
+665	Greek	uncles and aunts	aunt	3008629
+666	Greek	uncles and aunts	uncle	3008629
+667	Greek	siblings	brother	3008629
+668	Greek	siblings	sister	3008629
+669	Greenlandic	parents	father	2220663
+670	Greenlandic	parents	mother	2220663
+671	Greenlandic	children	son	2220663
+672	Greenlandic	children	daughter	2220663
+673	Greenlandic	grandparents	grandfather	2220663
+674	Greenlandic	grandparents	grandmother	2220663
+675	Greenlandic	siblings	sibling	2220663
+676	Greenlandic	siblings	elder brother (female speaking)	2220663
+677	Greenlandic	siblings	younger brother (female speaking)	2220663
+678	Greenlandic	siblings	elder brother (male speaking)	2220663
+679	Greenlandic	siblings	elder sister (female speaking)	2220663
+680	Greenlandic	siblings	younger brother (male speaking)	2220663
+681	Greenlandic	siblings	younger sister (female speaking)	2220663
+682	Greenlandic	siblings	elder sister (male speaking)	2220663
+683	Greenlandic	siblings	younger sister (male speaking)	2220663
+684	Gunwinggu	parents	father	1566361
+685	Gunwinggu	parents	mother	1566361
+686	Gunwinggu	children	son	1566361
+687	Gunwinggu	children	daughter	1566361
+688	Gunwinggu	uncles and aunts	paternal uncle	1566361
+689	Gunwinggu	uncles and aunts	maternal uncle	1566361
+690	Gunwinggu	uncles and aunts	paternal aunt	1566361
+691	Gunwinggu	uncles and aunts	mother's elder sister	1566361
+692	Gunwinggu	uncles and aunts	mother's younger sister	1566361
+693	Hawaiian	parents	father	2541763
+694	Hawaiian	parents	mother	2541763
+695	Hawaiian	children	son	2541763
+696	Hawaiian	children	daughter	2541763
+697	Hawaiian	uncles and aunts	uncle	2541763
+698	Hawaiian	uncles and aunts	aunt	2541763
+699	Hawaiian	siblings	elder brother (male speaking)	2541763
+700	Hawaiian	siblings	younger brother (male speaking)	2541763
+701	Hawaiian	siblings	brother (female speaking)	2541763
+702	Hawaiian	siblings	elder sister (female speaking)	2541763
+703	Hawaiian	siblings	younger sister (female speaking)	2541763
+704	Hawaiian	siblings	sister (male speaking)	2541763
+705	Hebrew	parents	father	2123289
+706	Hebrew	parents	mother	2123289
+707	Hebrew	children	son	2123289
+708	Hebrew	children	daughter	2123289
+709	Hebrew	cousins	son of parent's brother	2123289
+710	Hebrew	cousins	daughter of parent's brother	2123289
+711	Hebrew	cousins	son of parent's sister	2123289
+712	Hebrew	cousins	daughter of parent's sister	2123289
+713	Hebrew	grandchildren	grandson	2123289
+714	Hebrew	grandchildren	granddaughter	2123289
+715	Hebrew	grandparents	grandfather	2123289
+716	Hebrew	grandparents	grandmother	2123289
+717	Hebrew	nephews and nieces	nephew	2123289
+718	Hebrew	nephews and nieces	niece	2123289
+719	Hebrew	uncles and aunts	aunt	2123289
+720	Hebrew	uncles and aunts	uncle	2123289
+721	Hebrew	siblings	brother	2123289
+722	Hebrew	siblings	sister	2123289
+723	Hindi	parents	father	2718957
+724	Hindi	parents	mother	2718957
+725	Hindi	children	son	2718957
+726	Hindi	children	daughter	2718957
+727	Hindi	cousins	son of father's brother	2718957
+728	Hindi	cousins	daughter of father's brother	2718957
+729	Hindi	cousins	son of father's sister	2718957
+730	Hindi	cousins	daughter of father's sister	2718957
+731	Hindi	cousins	son of mother's brother	2718957
+732	Hindi	cousins	daughter of mother's brother	2718957
+733	Hindi	cousins	son of mother's sister	2718957
+734	Hindi	cousins	daughter of mother's sister	2718957
+735	Hindi	grandchildren	son's son	2718957
+736	Hindi	grandchildren	son's daughter	2718957
+737	Hindi	grandchildren	daughter's son	2718957
+738	Hindi	grandchildren	daughter's daughter	2718957
+739	Hindi	grandparents	paternal grandfather	2718957
+740	Hindi	grandparents	maternal grandfather	2718957
+741	Hindi	grandparents	paternal grandmother	2718957
+742	Hindi	grandparents	maternal grandmother	2718957
+743	Hindi	nephews and nieces	sister's son	2718957
+744	Hindi	nephews and nieces	brother's son	2718957
+745	Hindi	nephews and nieces	brother's daughter	2718957
+746	Hindi	nephews and nieces	sister's daughter	2718957
+747	Hindi	uncles and aunts	father's elder brother	2718957
+748	Hindi	uncles and aunts	father's younger brother	2718957
+749	Hindi	uncles and aunts	paternal uncle	2718957
+750	Hindi	uncles and aunts	maternal uncle	2718957
+751	Hindi	uncles and aunts	paternal aunt	2718957
+752	Hindi	uncles and aunts	maternal aunt	2718957
+753	Hindi	uncles and aunts	uncle	2718957
+754	Hindi	siblings	sibling	2718957
+755	Hindi	siblings	brother	2718957
+756	Hindi	siblings	sister	2718957
+757	Hindi	siblings	elder brother	2718957
+758	Hindi	siblings	elder sister	2718957
+759	Hindi	siblings	younger brother	2718957
+760	Hindi	siblings	younger sister	2718957
+761	Hungarian	parents	father	3199800
+762	Hungarian	parents	mother	3199800
+763	Hungarian	children	son	3199800
+764	Hungarian	children	daughter	3199800
+765	Hungarian	cousins	cousin	3199800
+766	Hungarian	cousins	elder male cousin	3199800
+767	Hungarian	cousins	elder female cousin	3199800
+768	Hungarian	cousins	younger male cousin	3199800
+769	Hungarian	cousins	younger female cousin	3199800
+770	Hungarian	grandchildren	grandchild	3199800
+771	Hungarian	grandchildren	grandson	3199800
+772	Hungarian	grandchildren	granddaughter	3199800
+773	Hungarian	grandparents	grandparent	3199800
+774	Hungarian	grandparents	grandfather	3199800
+775	Hungarian	grandparents	grandmother	3199800
+776	Hungarian	nephews and nieces	nephew	3199800
+777	Hungarian	nephews and nieces	niece	3199800
+778	Hungarian	uncles and aunts	uncle	3199800
+779	Hungarian	uncles and aunts	aunt	3199800
+780	Hungarian	siblings	sibling	3199800
+781	Hungarian	siblings	brother	3199800
+782	Hungarian	siblings	elder sibling	3199800
+783	Hungarian	siblings	younger sibling	3199800
+784	Hungarian	siblings	elder brother	3199800
+785	Hungarian	siblings	younger brother	3199800
+786	Hungarian	siblings	sister	3199800
+787	Hungarian	siblings	elder sister	3199800
+788	Hungarian	siblings	younger sister	3199800
+789	Icelandic	parents	father	2895454
+790	Icelandic	parents	mother	2895454
+791	Icelandic	children	son	2895454
+792	Icelandic	children	daughter	2895454
+793	Icelandic	cousins	male cousin	2895454
+794	Icelandic	cousins	female cousin	2895454
+795	Icelandic	grandchildren	son's son	2895454
+796	Icelandic	grandchildren	daughter's son	2895454
+797	Icelandic	grandchildren	son's daughter	2895454
+798	Icelandic	grandchildren	daughter's daughter	2895454
+799	Icelandic	grandparents	grandfather	2895454
+800	Icelandic	grandparents	grandmother	2895454
+801	Icelandic	nephews and nieces	brother's son	2895454
+802	Icelandic	nephews and nieces	sister's son	2895454
+803	Icelandic	nephews and nieces	brother's daughter	2895454
+804	Icelandic	nephews and nieces	sister's daughter	2895454
+805	Icelandic	uncles and aunts	paternal uncle	2895454
+806	Icelandic	uncles and aunts	maternal uncle	2895454
+807	Icelandic	uncles and aunts	paternal aunt	2895454
+808	Icelandic	uncles and aunts	maternal aunt	2895454
+809	Icelandic	siblings	brother	2895454
+810	Icelandic	siblings	sister	2895454
+811	Ido	parents	father	3051896
+812	Ido	parents	mother	3051896
+813	Ido	children	son	3051896
+814	Ido	children	daughter	3051896
+815	Ido	cousins	cousin	3051896
+816	Ido	cousins	male cousin	3051896
+817	Ido	cousins	female cousin	3051896
+818	Ido	grandchildren	grandchild	3051896
+819	Ido	grandchildren	grandson	3051896
+820	Ido	grandchildren	granddaughter	3051896
+821	Ido	grandparents	grandparent	3051896
+822	Ido	grandparents	grandfather	3051896
+823	Ido	grandparents	grandmother	3051896
+824	Ido	nephews and nieces	nibling	3051896
+825	Ido	nephews and nieces	nephew	3051896
+826	Ido	nephews and nieces	niece	3051896
+827	Ido	uncles and aunts	auncle	3051896
+828	Ido	uncles and aunts	uncle	3051896
+829	Ido	uncles and aunts	aunt	3051896
+830	Ido	siblings	sibling	3051896
+831	Ido	siblings	brother	3051896
+832	Ido	siblings	sister	3051896
+833	Indonesian	parents	father	1697625
+834	Indonesian	parents	mother	1697625
+835	Indonesian	children	son	1697625
+836	Indonesian	children	daughter	1697625
+837	Indonesian	grandparents	grandfather	1697625
+838	Indonesian	grandparents	grandmother	1697625
+839	Indonesian	uncles and aunts	uncle	1697625
+840	Indonesian	uncles and aunts	aunt	1697625
+841	Ingrian	parents	father	1994167
+842	Ingrian	parents	mother	1994167
+843	Ingrian	children	son	1994167
+844	Ingrian	children	daughter	1994167
+845	Ingrian	grandparents	grandfather	1994167
+846	Ingrian	grandparents	grandmother	1994167
+847	Ingrian	siblings	brother	1994167
+848	Ingrian	siblings	sister	1994167
+849	Ingush	parents	father	1868765
+850	Ingush	parents	mother	1868765
+851	Ingush	children	son	1868765
+852	Ingush	children	daughter	1868765
+853	Ingush	siblings	brother	1868765
+854	Ingush	siblings	sister	1868765
+855	Interlingua	parents	father	2011628
+856	Interlingua	parents	mother	2011628
+857	Interlingua	children	son	2011628
+858	Interlingua	children	daughter	2011628
+859	Interlingua	grandchildren	grandson	2011628
+860	Interlingua	grandchildren	granddaughter	2011628
+861	Interlingua	grandparents	grandfather	2011628
+862	Interlingua	grandparents	grandmother	2011628
+863	Interlingua	siblings	brother	2011628
+864	Interlingua	siblings	sister	2011628
+865	Irish	parents	father	2107535
+866	Irish	parents	mother	2107535
+867	Irish	children	son	2107535
+868	Irish	children	daughter	2107535
+869	Irish	grandchildren	grandson	2107535
+870	Irish	grandchildren	granddaughter	2107535
+871	Irish	grandparents	grandfather	2107535
+872	Irish	grandparents	grandmother	2107535
+873	Irish	nephews and nieces	nephew	2107535
+874	Irish	nephews and nieces	niece	2107535
+875	Irish	uncles and aunts	uncle	2107535
+876	Irish	uncles and aunts	aunt	2107535
+877	Irish	siblings	brother	2107535
+878	Irish	siblings	sister	2107535
+879	Italian	parents	father	3724239
+880	Italian	parents	mother	3724239
+881	Italian	children	son	3724239
+882	Italian	children	daughter	3724239
+883	Italian	cousins	male cousin	3724239
+884	Italian	cousins	female cousin	3724239
+885	Italian	cousins	elder male cousin	3724239
+886	Italian	cousins	elder female cousin	3724239
+887	Italian	grandchildren	grandchild	3724239
+888	Italian	grandchildren	grandson	3724239
+889	Italian	grandchildren	granddaughter	3724239
+890	Italian	grandparents	grandfather	3724239
+891	Italian	grandparents	grandmother	3724239
+892	Italian	nephews and nieces	nibling	3724239
+893	Italian	nephews and nieces	nephew	3724239
+894	Italian	nephews and nieces	niece	3724239
+895	Italian	uncles and aunts	uncle	3724239
+896	Italian	uncles and aunts	aunt	3724239
+897	Italian	siblings	brother	3724239
+898	Italian	siblings	sister	3724239
+899	Italian	siblings	elder brother	3724239
+900	Italian	siblings	elder sister	3724239
+901	Italian	siblings	younger brother	3724239
+902	Italian	siblings	younger sister	3724239
+903	Japanese	parents	father	2807342
+904	Japanese	parents	mother	2807342
+905	Japanese	children	son	2807342
+906	Japanese	children	daughter	2807342
+907	Japanese	cousins	cousin	2807342
+908	Japanese	cousins	elder male cousin	2807342
+909	Japanese	cousins	younger male cousin	2807342
+910	Japanese	cousins	elder female cousin	2807342
+911	Japanese	cousins	younger female cousin	2807342
+912	Japanese	grandchildren	grandchild	2807342
+913	Japanese	grandparents	grandfather	2807342
+914	Japanese	grandparents	grandmother	2807342
+915	Japanese	nephews and nieces	nephew	2807342
+916	Japanese	nephews and nieces	niece	2807342
+917	Japanese	uncles and aunts	uncle	2807342
+918	Japanese	uncles and aunts	aunt	2807342
+919	Japanese	siblings	elder brother	2807342
+920	Japanese	siblings	younger brother	2807342
+921	Japanese	siblings	elder sister	2807342
+922	Japanese	siblings	younger sister	2807342
+923	Javanese	parents	father	1713645
+924	Javanese	parents	mother	1713645
+925	Javanese	children	son	1713645
+926	Javanese	children	daughter	1713645
+927	Javanese	siblings	younger sibling	1713645
+928	Javanese	siblings	elder brother	1713645
+929	Javanese	siblings	elder sister	1713645
+930	Judeo-Arabic	parents	father	1868765
+931	Judeo-Arabic	parents	mother	1868765
+932	Judeo-Arabic	children	son	1868765
+933	Judeo-Arabic	children	daughter	1868765
+934	Judeo-Arabic	siblings	brother	1868765
+935	Judeo-Arabic	siblings	sister	1868765
+936	Kabuverdianu	parents	father	1868765
+937	Kabuverdianu	parents	mother	1868765
+938	Kabuverdianu	children	son	1868765
+939	Kabuverdianu	children	daughter	1868765
+940	Kabuverdianu	siblings	brother	1868765
+941	Kabuverdianu	siblings	sister	1868765
+942	Kannada	parents	father	4596632
+943	Kannada	parents	mother	4596632
+944	Kannada	children	son	4596632
+945	Kannada	children	daughter	4596632
+946	Kannada	cousins	cousin	4596632
+947	Kannada	cousins	elder male cousin	4596632
+948	Kannada	cousins	elder female cousin	4596632
+949	Kannada	cousins	younger male cousin	4596632
+950	Kannada	cousins	younger female cousin	4596632
+951	Kannada	cousins	son of father's sister	4596632
+952	Kannada	cousins	daughter of father's sister	4596632
+953	Kannada	cousins	son of mother's brother	4596632
+954	Kannada	cousins	daughter of mother's brother	4596632
+955	Kannada	cousins	elder, son of father's brother	4596632
+956	Kannada	cousins	younger, son of father's brother	4596632
+957	Kannada	cousins	elder, daughter of father's brother	4596632
+958	Kannada	cousins	younger, daughter of father's brother	4596632
+959	Kannada	cousins	elder, son of father's sister	4596632
+960	Kannada	cousins	younger, son of father's sister	4596632
+961	Kannada	cousins	elder, daughter of father's sister	4596632
+962	Kannada	cousins	younger, daughter of father's sister	4596632
+963	Kannada	cousins	elder, son of mother's brother	4596632
+964	Kannada	cousins	younger, son of mother's brother	4596632
+965	Kannada	cousins	elder, daughter of mother's brother	4596632
+966	Kannada	cousins	younger, daughter of mother's brother	4596632
+967	Kannada	cousins	elder, son of mother's sister	4596632
+968	Kannada	cousins	younger, son of mother's sister	4596632
+969	Kannada	cousins	elder, daughter of mother's sister	4596632
+970	Kannada	cousins	younger, daughter of mother's sister	4596632
+971	Kannada	grandchildren	grandchild	4596632
+972	Kannada	grandchildren	grandson	4596632
+973	Kannada	grandchildren	granddaughter	4596632
+974	Kannada	grandparents	grandfather	4596632
+975	Kannada	grandparents	grandmother	4596632
+976	Kannada	grandparents	maternal grandmother	4596632
+977	Kannada	nephews and nieces	nephew	4596632
+978	Kannada	nephews and nieces	niece	4596632
+979	Kannada	nephews and nieces	brother's son	4596632
+980	Kannada	nephews and nieces	brother's daughter	4596632
+981	Kannada	nephews and nieces	sister's son	4596632
+982	Kannada	nephews and nieces	sister's daughter	4596632
+983	Kannada	nephews and nieces	brother's son (female speaking)	4596632
+984	Kannada	nephews and nieces	sister's son (male speaking)	4596632
+985	Kannada	nephews and nieces	elder brother's son	4596632
+986	Kannada	nephews and nieces	elder brother's daughter	4596632
+987	Kannada	nephews and nieces	younger brother's son	4596632
+988	Kannada	nephews and nieces	younger brother's daughter	4596632
+989	Kannada	nephews and nieces	elder sister's son	4596632
+990	Kannada	nephews and nieces	elder sister's daughter	4596632
+991	Kannada	nephews and nieces	younger sister's son	4596632
+992	Kannada	nephews and nieces	younger sister's daughter	4596632
+993	Kannada	uncles and aunts	maternal uncle	4596632
+994	Kannada	uncles and aunts	paternal aunt	4596632
+995	Kannada	uncles and aunts	father's elder brother	4596632
+996	Kannada	uncles and aunts	father's younger brother	4596632
+997	Kannada	uncles and aunts	mother's elder sister	4596632
+998	Kannada	uncles and aunts	mother's younger sister	4596632
+999	Kannada	siblings	sibling	4596632
+1000	Kannada	siblings	brother	4596632
+1001	Kannada	siblings	sister	4596632
+1002	Kannada	siblings	elder brother	4596632
+1003	Kannada	siblings	elder sister	4596632
+1004	Kannada	siblings	younger brother	4596632
+1005	Kannada	siblings	younger sister	4596632
+1006	Kapampangan	parents	father	1572223
+1007	Kapampangan	parents	mother	1572223
+1008	Kapampangan	children	son	1572223
+1009	Kapampangan	children	daughter	1572223
+1010	Kapampangan	uncles and aunts	uncle	1572223
+1011	Kapampangan	uncles and aunts	aunt	1572223
+1012	Karelian	parents	father	1868765
+1013	Karelian	parents	mother	1868765
+1014	Karelian	children	son	1868765
+1015	Karelian	children	daughter	1868765
+1016	Karelian	siblings	brother	1868765
+1017	Karelian	siblings	sister	1868765
+1018	Kashubian	parents	father	1868765
+1019	Kashubian	parents	mother	1868765
+1020	Kashubian	children	son	1868765
+1021	Kashubian	children	daughter	1868765
+1022	Kashubian	siblings	brother	1868765
+1023	Kashubian	siblings	sister	1868765
+1024	Kazakh	parents	father	2149620
+1025	Kazakh	parents	mother	2149620
+1026	Kazakh	children	son	2149620
+1027	Kazakh	children	daughter	2149620
+1028	Kazakh	grandparents	grandfather	2149620
+1029	Kazakh	grandparents	grandmother	2149620
+1030	Kazakh	siblings	elder brother	2149620
+1031	Kazakh	siblings	younger brother	2149620
+1032	Kazakh	siblings	elder sister	2149620
+1033	Kazakh	siblings	younger sister	2149620
+1034	Khmer	parents	father	2149620
+1035	Khmer	parents	mother	2149620
+1036	Khmer	children	son	2149620
+1037	Khmer	children	daughter	2149620
+1038	Khmer	grandparents	grandfather	2149620
+1039	Khmer	grandparents	grandmother	2149620
+1040	Khmer	siblings	elder brother	2149620
+1041	Khmer	siblings	younger brother	2149620
+1042	Khmer	siblings	elder sister	2149620
+1043	Khmer	siblings	younger sister	2149620
+1044	Korean	parents	father	2341566
+1045	Korean	parents	mother	2341566
+1046	Korean	children	son	2341566
+1047	Korean	children	daughter	2341566
+1048	Korean	grandchildren	son's son	2341566
+1049	Korean	grandchildren	daughter's son	2341566
+1050	Korean	grandchildren	granddaughter	2341566
+1051	Korean	grandchildren	daughter's daughter	2341566
+1052	Korean	grandparents	grandfather	2341566
+1053	Korean	grandparents	grandmother	2341566
+1054	Korean	uncles and aunts	uncle	2341566
+1055	Korean	uncles and aunts	paternal aunt	2341566
+1056	Korean	uncles and aunts	maternal aunt	2341566
+1057	Korean	siblings	elder brother (male speaking)	2341566
+1058	Korean	siblings	elder brother (female speaking)	2341566
+1059	Korean	siblings	younger sibling	2341566
+1060	Korean	siblings	younger brother	2341566
+1061	Korean	siblings	younger sister	2341566
+1062	Korean	siblings	elder sister (male speaking)	2341566
+1063	Korean	siblings	elder sister (female speaking)	2341566
+1064	Krisa	parents	father	1671589
+1065	Krisa	parents	mother	1671589
+1066	Krisa	children	son	1671589
+1067	Krisa	children	daughter	1671589
+1068	Krisa	uncles and aunts	father's elder brother	1671589
+1069	Krisa	uncles and aunts	father's younger brother	1671589
+1070	Krisa	uncles and aunts	maternal uncle	1671589
+1071	Krisa	uncles and aunts	paternal aunt	1671589
+1072	Krisa	uncles and aunts	mother's elder sister	1671589
+1073	Krisa	uncles and aunts	mother's younger sister	1671589
+1074	Kumyk	parents	father	1969260
+1075	Kumyk	parents	mother	1969260
+1076	Kumyk	children	son	1969260
+1077	Kumyk	children	daughter	1969260
+1078	Kumyk	siblings	sister	1969260
+1079	Kumyk	siblings	elder brother	1969260
+1080	Kumyk	siblings	younger brother	1969260
+1081	Kurdish	parents	father	1868765
+1082	Kurdish	parents	mother	1868765
+1083	Kurdish	children	son	1868765
+1084	Kurdish	children	daughter	1868765
+1085	Kurdish	siblings	brother	1868765
+1086	Kurdish	siblings	sister	1868765
+1087	Laboya	parents	father	1516971
+1088	Laboya	parents	mother	1516971
+1089	Laboya	children	son	1516971
+1090	Laboya	children	daughter	1516971
+1091	Laboya	siblings	younger sibling	1516971
+1092	Laboya	siblings	elder sibling	1516971
+1093	Lao	parents	father	1507029
+1094	Lao	parents	mother	1507029
+1095	Lao	children	son	1507029
+1096	Lao	children	daughter	1507029
+1097	Lao	grandchildren	grandchild	1507029
+1098	Latgalian	parents	father	1523321
+1099	Latgalian	parents	mother	1523321
+1100	Latgalian	children	son	1523321
+1101	Latgalian	children	daughter	1523321
+1102	Latgalian	grandchildren	grandson	1523321
+1103	Latgalian	grandchildren	granddaughter	1523321
+1104	Latin	parents	father	2014159
+1105	Latin	parents	mother	2014159
+1106	Latin	children	son	2014159
+1107	Latin	children	daughter	2014159
+1108	Latin	grandchildren	grandchild	2014159
+1109	Latin	grandchildren	granddaughter	2014159
+1110	Latin	grandchildren	grandson	2014159
+1111	Latin	grandparents	grandfather	2014159
+1112	Latin	grandparents	grandmother	2014159
+1113	Latin	nephews and nieces	brother's son	2014159
+1114	Latin	nephews and nieces	sister's son	2014159
+1115	Latin	nephews and nieces	brother's daughter	2014159
+1116	Latin	nephews and nieces	sister's daughter	2014159
+1117	Latin	uncles and aunts	paternal uncle	2014159
+1118	Latin	uncles and aunts	maternal uncle	2014159
+1119	Latin	uncles and aunts	paternal aunt	2014159
+1120	Latin	uncles and aunts	maternal aunt	2014159
+1121	Latin	siblings	brother	2014159
+1122	Latin	siblings	sister	2014159
+1123	Latvian	parents	father	2852823
+1124	Latvian	parents	mother	2852823
+1125	Latvian	children	son	2852823
+1126	Latvian	children	daughter	2852823
+1127	Latvian	cousins	male cousin	2852823
+1128	Latvian	cousins	female cousin	2852823
+1129	Latvian	grandchildren	grandson	2852823
+1130	Latvian	grandchildren	granddaughter	2852823
+1131	Latvian	nephews and nieces	brother's son	2852823
+1132	Latvian	nephews and nieces	sister's son	2852823
+1133	Latvian	nephews and nieces	brother's daughter	2852823
+1134	Latvian	nephews and nieces	sister's daughter	2852823
+1135	Latvian	uncles and aunts	uncle	2852823
+1136	Latvian	uncles and aunts	aunt	2852823
+1137	Latvian	siblings	brother	2852823
+1138	Latvian	siblings	sister	2852823
+1139	Lithuanian	parents	father	2768690
+1140	Lithuanian	parents	mother	2768690
+1141	Lithuanian	children	son	2768690
+1142	Lithuanian	children	daughter	2768690
+1143	Lithuanian	cousins	male cousin	2768690
+1144	Lithuanian	cousins	female cousin	2768690
+1145	Lithuanian	siblings	brother	2768690
+1146	Lithuanian	siblings	sister	2768690
+1147	Livonian	parents	father	1868765
+1148	Livonian	parents	mother	1868765
+1149	Livonian	children	son	1868765
+1150	Livonian	children	daughter	1868765
+1151	Livonian	siblings	brother	1868765
+1152	Livonian	siblings	sister	1868765
+1153	Lower Sorbian	parents	father	2768690
+1154	Lower Sorbian	parents	mother	2768690
+1155	Lower Sorbian	children	son	2768690
+1156	Lower Sorbian	children	daughter	2768690
+1157	Lower Sorbian	cousins	male cousin	2768690
+1158	Lower Sorbian	cousins	female cousin	2768690
+1159	Lower Sorbian	siblings	brother	2768690
+1160	Lower Sorbian	siblings	sister	2768690
+1161	Luxembourgish	parents	father	1994167
+1162	Luxembourgish	parents	mother	1994167
+1163	Luxembourgish	children	son	1994167
+1164	Luxembourgish	children	daughter	1994167
+1165	Luxembourgish	grandparents	grandfather	1994167
+1166	Luxembourgish	grandparents	grandmother	1994167
+1167	Luxembourgish	siblings	brother	1994167
+1168	Luxembourgish	siblings	sister	1994167
+1169	Mòcheno	parents	father	2060530
+1170	Mòcheno	parents	mother	2060530
+1171	Mòcheno	children	son	2060530
+1172	Mòcheno	children	daughter	2060530
+1173	Mòcheno	grandparents	grandfather	2060530
+1174	Mòcheno	grandparents	grandmother	2060530
+1175	Mòcheno	uncles and aunts	uncle	2060530
+1176	Mòcheno	uncles and aunts	aunt	2060530
+1177	Mòcheno	siblings	brother	2060530
+1178	Mòcheno	siblings	sister	2060530
+1179	Macedonian	parents	father	2911862
+1180	Macedonian	parents	mother	2911862
+1181	Macedonian	children	son	2911862
+1182	Macedonian	children	daughter	2911862
+1183	Macedonian	cousins	male cousin	2911862
+1184	Macedonian	cousins	female cousin	2911862
+1185	Macedonian	grandchildren	grandson	2911862
+1186	Macedonian	grandchildren	granddaughter	2911862
+1187	Macedonian	grandparents	grandfather	2911862
+1188	Macedonian	grandparents	grandmother	2911862
+1189	Macedonian	nephews and nieces	brother's son	2911862
+1190	Macedonian	nephews and nieces	sister's son	2911862
+1191	Macedonian	nephews and nieces	brother's daughter	2911862
+1192	Macedonian	nephews and nieces	sister's daughter	2911862
+1193	Macedonian	siblings	brother	2911862
+1194	Macedonian	siblings	sister	2911862
+1195	Malay	parents	father	1906579
+1196	Malay	parents	mother	1906579
+1197	Malay	children	son	1906579
+1198	Malay	children	daughter	1906579
+1199	Malay	grandchildren	grandchild	1906579
+1200	Malay	grandparents	grandfather	1906579
+1201	Malay	grandparents	grandmother	1906579
+1202	Malay	nephews and nieces	nibling	1906579
+1203	Malay	uncles and aunts	uncle	1906579
+1204	Malay	uncles and aunts	aunt	1906579
+1205	Malay	siblings	younger sibling	1906579
+1206	Malay	siblings	elder brother	1906579
+1207	Malay	siblings	elder sister	1906579
+1208	Malayalam	parents	father	5450971
+1209	Malayalam	parents	mother	5450971
+1210	Malayalam	children	son	5450971
+1211	Malayalam	children	daughter	5450971
+1212	Malayalam	cousins	elder, son of father's brother	5450971
+1213	Malayalam	cousins	younger, son of father's brother	5450971
+1214	Malayalam	cousins	elder, daughter of father's brother	5450971
+1215	Malayalam	cousins	younger, daughter of father's brother	5450971
+1216	Malayalam	cousins	elder, son of father's sister	5450971
+1217	Malayalam	cousins	younger, son of father's sister	5450971
+1218	Malayalam	cousins	elder, daughter of father's sister	5450971
+1219	Malayalam	cousins	younger, daughter of father's sister	5450971
+1220	Malayalam	cousins	elder, son of mother's brother	5450971
+1221	Malayalam	cousins	younger, son of mother's brother	5450971
+1222	Malayalam	cousins	elder, daughter of mother's brother	5450971
+1223	Malayalam	cousins	younger, daughter of mother's brother	5450971
+1224	Malayalam	cousins	elder, son of mother's sister	5450971
+1225	Malayalam	cousins	younger, son of mother's sister	5450971
+1226	Malayalam	cousins	elder, daughter of mother's sister	5450971
+1227	Malayalam	cousins	younger, daughter of mother's sister	5450971
+1228	Malayalam	grandchildren	grandchild	5450971
+1229	Malayalam	grandchildren	grandson	5450971
+1230	Malayalam	grandchildren	granddaughter	5450971
+1231	Malayalam	grandparents	grandfather	5450971
+1232	Malayalam	grandparents	grandmother	5450971
+1233	Malayalam	grandparents	paternal grandfather	5450971
+1234	Malayalam	grandparents	maternal grandfather	5450971
+1235	Malayalam	grandparents	paternal grandmother	5450971
+1236	Malayalam	grandparents	maternal grandmother	5450971
+1237	Malayalam	nephews and nieces	nibling	5450971
+1238	Malayalam	nephews and nieces	nephew	5450971
+1239	Malayalam	nephews and nieces	niece	5450971
+1240	Malayalam	nephews and nieces	brother's son	5450971
+1241	Malayalam	nephews and nieces	brother's daughter	5450971
+1242	Malayalam	nephews and nieces	sister's son	5450971
+1243	Malayalam	nephews and nieces	sister's daughter	5450971
+1244	Malayalam	nephews and nieces	elder brother's son	5450971
+1245	Malayalam	nephews and nieces	elder brother's daughter	5450971
+1246	Malayalam	uncles and aunts	uncle	5450971
+1247	Malayalam	uncles and aunts	aunt	5450971
+1248	Malayalam	uncles and aunts	father's sibling	5450971
+1249	Malayalam	uncles and aunts	mother's sibling	5450971
+1250	Malayalam	uncles and aunts	father's elder brother	5450971
+1251	Malayalam	uncles and aunts	father's younger brother	5450971
+1252	Malayalam	uncles and aunts	father's elder sister	5450971
+1253	Malayalam	uncles and aunts	father's younger sister	5450971
+1254	Malayalam	uncles and aunts	mother's elder brother	5450971
+1255	Malayalam	uncles and aunts	mother's younger brother	5450971
+1256	Malayalam	uncles and aunts	mother's elder sister	5450971
+1257	Malayalam	uncles and aunts	mother's younger sister	5450971
+1258	Malayalam	siblings	sibling	5450971
+1259	Malayalam	siblings	brother	5450971
+1260	Malayalam	siblings	sister	5450971
+1261	Malayalam	siblings	brother (male speaking)	5450971
+1262	Malayalam	siblings	brother (female speaking)	5450971
+1263	Malayalam	siblings	sister (male speaking)	5450971
+1264	Malayalam	siblings	sister (female speaking)	5450971
+1265	Malayalam	siblings	elder brother	5450971
+1266	Malayalam	siblings	elder sister	5450971
+1267	Malayalam	siblings	younger brother	5450971
+1268	Malayalam	siblings	younger sister	5450971
+1269	Maltese	parents	father	1886226
+1270	Maltese	parents	mother	1886226
+1271	Maltese	children	son	1886226
+1272	Maltese	children	daughter	1886226
+1273	Maltese	grandchildren	grandson	1886226
+1274	Maltese	grandchildren	granddaughter	1886226
+1275	Maltese	siblings	brother	1886226
+1276	Maltese	siblings	sister	1886226
+1277	Manchu	parents	father	2157121
+1278	Manchu	parents	mother	2157121
+1279	Manchu	children	son	2157121
+1280	Manchu	children	daughter	2157121
+1281	Manchu	grandchildren	grandson	2157121
+1282	Manchu	grandchildren	granddaughter	2157121
+1283	Manchu	grandparents	paternal grandfather	2157121
+1284	Manchu	grandparents	maternal grandfather	2157121
+1285	Manchu	grandparents	paternal grandmother	2157121
+1286	Manchu	grandparents	maternal grandmother	2157121
+1287	Manchu	siblings	elder brother	2157121
+1288	Manchu	siblings	younger brother	2157121
+1289	Manchu	siblings	elder sister	2157121
+1290	Manchu	siblings	younger sister	2157121
+1291	Mandarin	parents	father	2867449
+1292	Mandarin	parents	mother	2867449
+1293	Mandarin	children	son	2867449
+1294	Mandarin	children	daughter	2867449
+1295	Mandarin	cousins	elder, son of father's brother	2867449
+1296	Mandarin	cousins	younger, son of father's brother	2867449
+1297	Mandarin	cousins	elder, daughter of father's brother	2867449
+1298	Mandarin	cousins	younger, daughter of father's brother	2867449
+1299	Mandarin	cousins	elder, son of mother's sibling	2867449
+1300	Mandarin	cousins	elder, son of father's sister	2867449
+1301	Mandarin	cousins	younger, son of mother's sibling	2867449
+1302	Mandarin	cousins	younger, son of father's sister	2867449
+1303	Mandarin	cousins	elder, daughter of mother's sibling	2867449
+1304	Mandarin	cousins	elder, daughter of father's sister	2867449
+1305	Mandarin	cousins	younger, daughter of mother's sibling	2867449
+1306	Mandarin	cousins	younger, daughter of father's sister	2867449
+1307	Mandarin	grandchildren	son's daughter	2867449
+1308	Mandarin	grandchildren	daughter's daughter	2867449
+1309	Mandarin	grandchildren	grandchild	2867449
+1310	Mandarin	grandchildren	son's son	2867449
+1311	Mandarin	grandchildren	daughter's son	2867449
+1312	Mandarin	grandparents	paternal grandfather	2867449
+1313	Mandarin	grandparents	paternal grandmother	2867449
+1314	Mandarin	grandparents	maternal grandfather	2867449
+1315	Mandarin	grandparents	maternal grandmother	2867449
+1316	Mandarin	nephews and nieces	brother's son	2867449
+1317	Mandarin	nephews and nieces	sister's son	2867449
+1318	Mandarin	nephews and nieces	brother's daughter	2867449
+1319	Mandarin	nephews and nieces	sister's daughter	2867449
+1320	Mandarin	siblings	sibling	2867449
+1321	Mandarin	siblings	elder brother	2867449
+1322	Mandarin	siblings	younger brother	2867449
+1323	Mandarin	siblings	elder sister	2867449
+1324	Mandarin	siblings	younger sister	2867449
+1325	Maori	parents	father	2987967
+1326	Maori	parents	mother	2987967
+1327	Maori	children	son	2987967
+1328	Maori	children	daughter	2987967
+1329	Maori	cousins	male cousin (female speaking)	2987967
+1330	Maori	cousins	elder male cousin (male speaking)	2987967
+1331	Maori	cousins	elder female cousin (female speaking)	2987967
+1332	Maori	cousins	younger male cousin (male speaking)	2987967
+1333	Maori	cousins	younger female cousin (female speaking)	2987967
+1334	Maori	cousins	female cousin (male speaking)	2987967
+1335	Maori	grandchildren	grandchild	2987967
+1336	Maori	uncles and aunts	uncle	2987967
+1337	Maori	uncles and aunts	aunt	2987967
+1338	Maori	siblings	elder brother (male speaking)	2987967
+1339	Maori	siblings	elder sister (female speaking)	2987967
+1340	Maori	siblings	younger brother (male speaking)	2987967
+1341	Maori	siblings	younger sister (female speaking)	2987967
+1342	Maori	siblings	brother (female speaking)	2987967
+1343	Maori	siblings	sister (male speaking)	2987967
+1344	Marathi	parents	father	1995529
+1345	Marathi	parents	mother	1995529
+1346	Marathi	children	son	1995529
+1347	Marathi	children	daughter	1995529
+1348	Marathi	grandparents	grandfather	1995529
+1349	Marathi	grandparents	grandmother	1995529
+1350	Marathi	nephews and nieces	brother's son	1995529
+1351	Marathi	nephews and nieces	sister's son	1995529
+1352	Marathi	nephews and nieces	brother's daughter	1995529
+1353	Marathi	nephews and nieces	sister's daughter	1995529
+1354	Marathi	uncles and aunts	paternal uncle	1995529
+1355	Marathi	uncles and aunts	maternal uncle	1995529
+1356	Marathi	uncles and aunts	paternal aunt	1995529
+1357	Marathi	uncles and aunts	maternal aunt	1995529
+1358	Marathi	siblings	brother	1995529
+1359	Marathi	siblings	sister	1995529
+1360	Min Nan	parents	father	2875870
+1361	Min Nan	parents	mother	2875870
+1362	Min Nan	children	son	2875870
+1363	Min Nan	children	daughter	2875870
+1364	Min Nan	cousins	elder, son of father's brother	2875870
+1365	Min Nan	cousins	elder, son of mother's sibling	2875870
+1366	Min Nan	cousins	elder, son of father's sister	2875870
+1367	Min Nan	cousins	younger, son of mother's sibling	2875870
+1368	Min Nan	cousins	younger, son of father's sister	2875870
+1369	Min Nan	cousins	elder, daughter of mother's sibling	2875870
+1370	Min Nan	cousins	elder, daughter of father's sister	2875870
+1371	Min Nan	cousins	younger, daughter of mother's sibling	2875870
+1372	Min Nan	cousins	younger, daughter of father's sister	2875870
+1373	Min Nan	cousins	younger, son of father's brother	2875870
+1374	Min Nan	cousins	younger, daughter of father's brother	2875870
+1375	Min Nan	grandparents	paternal grandfather	2875870
+1376	Min Nan	grandparents	maternal grandfather	2875870
+1377	Min Nan	grandparents	grandfather	2875870
+1378	Min Nan	grandparents	paternal grandmother	2875870
+1379	Min Nan	grandparents	maternal grandmother	2875870
+1380	Min Nan	grandparents	grandmother	2875870
+1381	Min Nan	siblings	elder brother	2875870
+1382	Min Nan	siblings	younger brother	2875870
+1383	Min Nan	siblings	younger sister	2875870
+1384	Min Nan	siblings	elder sister	2875870
+1385	Mingrelian	parents	father	1868765
+1386	Mingrelian	parents	mother	1868765
+1387	Mingrelian	children	son	1868765
+1388	Mingrelian	children	daughter	1868765
+1389	Mingrelian	siblings	brother	1868765
+1390	Mingrelian	siblings	sister	1868765
+1391	Mirandese	parents	father	1868765
+1392	Mirandese	parents	mother	1868765
+1393	Mirandese	children	son	1868765
+1394	Mirandese	children	daughter	1868765
+1395	Mirandese	siblings	brother	1868765
+1396	Mirandese	siblings	sister	1868765
+1397	Mongolian	parents	father	2427262
+1398	Mongolian	parents	mother	2427262
+1399	Mongolian	children	son	2427262
+1400	Mongolian	children	daughter	2427262
+1401	Mongolian	cousins	cousin	2427262
+1402	Mongolian	cousins	younger cousin	2427262
+1403	Mongolian	cousins	elder female cousin	2427262
+1404	Mongolian	cousins	elder male cousin	2427262
+1405	Mongolian	grandchildren	daughter's child	2427262
+1406	Mongolian	grandchildren	son's child	2427262
+1407	Mongolian	grandchildren	son's son	2427262
+1408	Mongolian	grandchildren	son's daughter	2427262
+1409	Mongolian	grandchildren	daughter's son	2427262
+1410	Mongolian	grandchildren	daughter's daughter	2427262
+1411	Mongolian	grandparents	grandfather	2427262
+1412	Mongolian	grandparents	grandmother	2427262
+1413	Mongolian	nephews and nieces	brother's child	2427262
+1414	Mongolian	nephews and nieces	sister's child	2427262
+1415	Mongolian	uncles and aunts	father's sibling	2427262
+1416	Mongolian	uncles and aunts	mother's sibling	2427262
+1417	Mongolian	uncles and aunts	paternal uncle	2427262
+1418	Mongolian	uncles and aunts	maternal uncle	2427262
+1419	Mongolian	uncles and aunts	paternal aunt	2427262
+1420	Mongolian	uncles and aunts	maternal aunt	2427262
+1421	Mongolian	siblings	elder brother	2427262
+1422	Mongolian	siblings	younger sibling	2427262
+1423	Mongolian	siblings	elder sister	2427262
+1424	Mongolian	siblings	younger brother	2427262
+1425	Mongolian	siblings	younger sister	2427262
+1426	Navajo	parents	father	2147882
+1427	Navajo	parents	mother	2147882
+1428	Navajo	children	son	2147882
+1429	Navajo	children	daughter	2147882
+1430	Navajo	cousins	cousin (female speaking)	2147882
+1431	Navajo	cousins	male cousin (male speaking)	2147882
+1432	Navajo	cousins	female cousin (male speaking)	2147882
+1433	Navajo	grandparents	paternal grandparent	2147882
+1434	Navajo	grandparents	maternal grandfather	2147882
+1435	Navajo	grandparents	maternal grandmother	2147882
+1436	Navajo	uncles and aunts	father's sibling	2147882
+1437	Navajo	uncles and aunts	maternal uncle	2147882
+1438	Navajo	uncles and aunts	maternal aunt	2147882
+1439	Navajo	siblings	younger brother	2147882
+1440	Navajo	siblings	elder brother	2147882
+1441	Navajo	siblings	elder sister	2147882
+1442	Navajo	siblings	younger sister	2147882
+1443	Nivkh	parents	father	1713645
+1444	Nivkh	parents	mother	1713645
+1445	Nivkh	children	son	1713645
+1446	Nivkh	children	daughter	1713645
+1447	Nivkh	siblings	younger sibling	1713645
+1448	Nivkh	siblings	elder brother	1713645
+1449	Nivkh	siblings	elder sister	1713645
+1450	Norman	parents	father	3007460
+1451	Norman	parents	mother	3007460
+1452	Norman	children	son	3007460
+1453	Norman	children	daughter	3007460
+1454	Norman	cousins	male cousin	3007460
+1455	Norman	cousins	female cousin	3007460
+1456	Norman	grandchildren	grandson	3007460
+1457	Norman	grandchildren	granddaughter	3007460
+1458	Norman	grandparents	grandfather	3007460
+1459	Norman	grandparents	grandmother	3007460
+1460	Norman	nephews and nieces	nephew	3007460
+1461	Norman	nephews and nieces	niece	3007460
+1462	Norman	uncles and aunts	uncle	3007460
+1463	Norman	uncles and aunts	aunt	3007460
+1464	Norman	siblings	brother	3007460
+1465	Norman	siblings	sister	3007460
+1466	North Frisian	parents	father	1994167
+1467	North Frisian	parents	mother	1994167
+1468	North Frisian	children	son	1994167
+1469	North Frisian	children	daughter	1994167
+1470	North Frisian	grandparents	grandfather	1994167
+1471	North Frisian	grandparents	grandmother	1994167
+1472	North Frisian	siblings	brother	1994167
+1473	North Frisian	siblings	sister	1994167
+1474	Northern Ohlone	parents	father	1697625
+1475	Northern Ohlone	parents	mother	1697625
+1476	Northern Ohlone	children	son	1697625
+1477	Northern Ohlone	children	daughter	1697625
+1478	Northern Ohlone	grandparents	grandfather	1697625
+1479	Northern Ohlone	grandparents	grandmother	1697625
+1480	Northern Ohlone	uncles and aunts	uncle	1697625
+1481	Northern Ohlone	uncles and aunts	aunt	1697625
+1482	Northern Sami	parents	father	3059821
+1483	Northern Sami	parents	mother	3059821
+1484	Northern Sami	children	son	3059821
+1485	Northern Sami	children	daughter	3059821
+1486	Northern Sami	cousins	male cousin	3059821
+1487	Northern Sami	cousins	female cousin	3059821
+1488	Northern Sami	grandparents	grandfather	3059821
+1489	Northern Sami	grandparents	grandmother	3059821
+1490	Northern Sami	nephews and nieces	younger brother's child (male speaking)	3059821
+1491	Northern Sami	nephews and nieces	elder brother's child (male speaking)	3059821
+1492	Northern Sami	nephews and nieces	younger sister's child (female speaking)	3059821
+1493	Northern Sami	nephews and nieces	elder sister's child (female speaking)	3059821
+1494	Northern Sami	nephews and nieces	sister's child (male speaking)	3059821
+1495	Northern Sami	nephews and nieces	brother's child (female speaking)	3059821
+1496	Northern Sami	uncles and aunts	father's younger brother	3059821
+1497	Northern Sami	uncles and aunts	father's elder brother	3059821
+1498	Northern Sami	uncles and aunts	maternal uncle	3059821
+1499	Northern Sami	uncles and aunts	paternal aunt	3059821
+1500	Northern Sami	uncles and aunts	mother's elder sister	3059821
+1501	Northern Sami	uncles and aunts	mother's younger sister	3059821
+1502	Northern Sami	siblings	brother	3059821
+1503	Northern Sami	siblings	sister	3059821
+1504	Norwegian	parents	father	2811798
+1505	Norwegian	parents	mother	2811798
+1506	Norwegian	children	son	2811798
+1507	Norwegian	children	daughter	2811798
+1508	Norwegian	cousins	cousin	2811798
+1509	Norwegian	cousins	male cousin	2811798
+1510	Norwegian	cousins	female cousin	2811798
+1511	Norwegian	siblings	sibling	2811798
+1512	Norwegian	siblings	brother	2811798
+1513	Norwegian	siblings	sister	2811798
+1514	Norwegian Bokmål	parents	father	1814429
+1515	Norwegian Bokmål	parents	mother	1814429
+1516	Norwegian Bokmål	children	son	1814429
+1517	Norwegian Bokmål	children	daughter	1814429
+1518	Norwegian Bokmål	grandparents	grandfather	1814429
+1519	Norwegian Bokmål	grandparents	grandmother	1814429
+1520	Norwegian Bokmål	grandparents	paternal grandfather	1814429
+1521	Norwegian Bokmål	grandparents	maternal grandfather	1814429
+1522	Norwegian Bokmål	grandparents	paternal grandmother	1814429
+1523	Norwegian Bokmål	grandparents	maternal grandmother	1814429
+1524	Norwegian Bokmål	nephews and nieces	brother's son	1814429
+1525	Norwegian Bokmål	nephews and nieces	sister's son	1814429
+1526	Norwegian Bokmål	nephews and nieces	brother's daughter	1814429
+1527	Norwegian Bokmål	nephews and nieces	sister's daughter	1814429
+1528	Norwegian Bokmål	uncles and aunts	uncle	1814429
+1529	Norwegian Bokmål	uncles and aunts	paternal uncle	1814429
+1530	Norwegian Bokmål	uncles and aunts	maternal uncle	1814429
+1531	Norwegian Bokmål	uncles and aunts	aunt	1814429
+1532	Norwegian Bokmål	uncles and aunts	paternal aunt	1814429
+1533	Norwegian Bokmål	uncles and aunts	maternal aunt	1814429
+1534	Norwegian Nynorsk	parents	father	1509611
+1535	Norwegian Nynorsk	parents	mother	1509611
+1536	Norwegian Nynorsk	children	son	1509611
+1537	Norwegian Nynorsk	children	daughter	1509611
+1538	Norwegian Nynorsk	grandchildren	grandchild	1509611
+1539	Norwegian Nynorsk	grandchildren	son's son	1509611
+1540	Norwegian Nynorsk	grandchildren	daughter's son	1509611
+1541	Norwegian Nynorsk	grandchildren	son's child	1509611
+1542	Norwegian Nynorsk	grandchildren	daughter's child	1509611
+1543	Norwegian Nynorsk	grandchildren	son's daughter	1509611
+1544	Norwegian Nynorsk	grandchildren	daughter's daughter	1509611
+1545	Norwegian Nynorsk	nephews and nieces	brother's son	1509611
+1546	Norwegian Nynorsk	nephews and nieces	sister's son	1509611
+1547	Norwegian Nynorsk	nephews and nieces	brother's daughter	1509611
+1548	Norwegian Nynorsk	nephews and nieces	sister's daughter	1509611
+1549	Occitan	parents	father	2835053
+1550	Occitan	parents	mother	2835053
+1551	Occitan	children	son	2835053
+1552	Occitan	children	daughter	2835053
+1553	Occitan	cousins	male cousin	2835053
+1554	Occitan	cousins	female cousin	2835053
+1555	Occitan	uncles and aunts	uncle	2835053
+1556	Occitan	uncles and aunts	aunt	2835053
+1557	Occitan	siblings	brother	2835053
+1558	Occitan	siblings	sister	2835053
+1559	Ojibwe	parents	father	1631262
+1560	Ojibwe	parents	mother	1631262
+1561	Ojibwe	children	son	1631262
+1562	Ojibwe	children	daughter	1631262
+1563	Ojibwe	grandparents	grandfather	1631262
+1564	Ojibwe	grandparents	grandmother	1631262
+1565	Old Church Slavonic	parents	father	1868765
+1566	Old Church Slavonic	parents	mother	1868765
+1567	Old Church Slavonic	children	son	1868765
+1568	Old Church Slavonic	children	daughter	1868765
+1569	Old Church Slavonic	siblings	brother	1868765
+1570	Old Church Slavonic	siblings	sister	1868765
+1571	O'odham	parents	father	1621301
+1572	O'odham	parents	mother	1621301
+1573	O'odham	children	son	1621301
+1574	O'odham	children	daughter	1621301
+1575	O'odham	grandparents	paternal grandfather	1621301
+1576	O'odham	grandparents	maternal grandfather	1621301
+1577	O'odham	grandparents	paternal grandmother	1621301
+1578	O'odham	grandparents	maternal grandmother	1621301
+1579	Oromo	parents	father	1994167
+1580	Oromo	parents	mother	1994167
+1581	Oromo	children	son	1994167
+1582	Oromo	children	daughter	1994167
+1583	Oromo	grandparents	grandfather	1994167
+1584	Oromo	grandparents	grandmother	1994167
+1585	Oromo	siblings	brother	1994167
+1586	Oromo	siblings	sister	1994167
+1587	Ossetian	parents	father	1868765
+1588	Ossetian	parents	mother	1868765
+1589	Ossetian	children	son	1868765
+1590	Ossetian	children	daughter	1868765
+1591	Ossetian	siblings	brother	1868765
+1592	Ossetian	siblings	sister	1868765
+1593	Pali	parents	father	1868765
+1594	Pali	parents	mother	1868765
+1595	Pali	children	son	1868765
+1596	Pali	children	daughter	1868765
+1597	Pali	siblings	brother	1868765
+1598	Pali	siblings	sister	1868765
+1599	Pashto	parents	father	1868765
+1600	Pashto	parents	mother	1868765
+1601	Pashto	children	son	1868765
+1602	Pashto	children	daughter	1868765
+1603	Pashto	siblings	brother	1868765
+1604	Pashto	siblings	sister	1868765
+1605	Persian	parents	father	2066368
+1606	Persian	parents	mother	2066368
+1607	Persian	children	son	2066368
+1608	Persian	children	daughter	2066368
+1609	Persian	cousins	son of father's brother	2066368
+1610	Persian	cousins	daughter of father's brother	2066368
+1611	Persian	cousins	son of father's sister	2066368
+1612	Persian	cousins	daughter of father's sister	2066368
+1613	Persian	cousins	son of mother's brother	2066368
+1614	Persian	cousins	daughter of mother's brother	2066368
+1615	Persian	cousins	son of mother's sister	2066368
+1616	Persian	cousins	daughter of mother's sister	2066368
+1617	Persian	grandchildren	grandchild	2066368
+1618	Persian	grandparents	grandfather	2066368
+1619	Persian	grandparents	grandmother	2066368
+1620	Persian	uncles and aunts	paternal uncle	2066368
+1621	Persian	uncles and aunts	maternal uncle	2066368
+1622	Persian	uncles and aunts	paternal aunt	2066368
+1623	Persian	uncles and aunts	maternal aunt	2066368
+1624	Persian	siblings	brother	2066368
+1625	Persian	siblings	sister	2066368
+1626	Phoenician	parents	father	1868765
+1627	Phoenician	parents	mother	1868765
+1628	Phoenician	children	son	1868765
+1629	Phoenician	children	daughter	1868765
+1630	Phoenician	siblings	brother	1868765
+1631	Phoenician	siblings	sister	1868765
+1632	Plautdietsch	parents	father	2107535
+1633	Plautdietsch	parents	mother	2107535
+1634	Plautdietsch	children	son	2107535
+1635	Plautdietsch	children	daughter	2107535
+1636	Plautdietsch	grandchildren	grandson	2107535
+1637	Plautdietsch	grandchildren	granddaughter	2107535
+1638	Plautdietsch	grandparents	grandfather	2107535
+1639	Plautdietsch	grandparents	grandmother	2107535
+1640	Plautdietsch	nephews and nieces	nephew	2107535
+1641	Plautdietsch	nephews and nieces	niece	2107535
+1642	Plautdietsch	uncles and aunts	uncle	2107535
+1643	Plautdietsch	uncles and aunts	aunt	2107535
+1644	Plautdietsch	siblings	brother	2107535
+1645	Plautdietsch	siblings	sister	2107535
+1646	Polabian	parents	father	1868765
+1647	Polabian	parents	mother	1868765
+1648	Polabian	children	son	1868765
+1649	Polabian	children	daughter	1868765
+1650	Polabian	siblings	brother	1868765
+1651	Polabian	siblings	sister	1868765
+1652	Polish	parents	father	2913527
+1653	Polish	parents	mother	2913527
+1654	Polish	children	son	2913527
+1655	Polish	children	daughter	2913527
+1656	Polish	cousins	male cousin	2913527
+1657	Polish	cousins	female cousin	2913527
+1658	Polish	grandchildren	grandchild	2913527
+1659	Polish	grandchildren	grandson	2913527
+1660	Polish	grandchildren	granddaughter	2913527
+1661	Polish	grandparents	grandfather	2913527
+1662	Polish	grandparents	grandmother	2913527
+1663	Polish	nephews and nieces	brother's son	2913527
+1664	Polish	nephews and nieces	sister's son	2913527
+1665	Polish	nephews and nieces	brother's daughter	2913527
+1666	Polish	nephews and nieces	sister's daughter	2913527
+1667	Polish	uncles and aunts	paternal uncle	2913527
+1668	Polish	uncles and aunts	maternal uncle	2913527
+1669	Polish	siblings	brother	2913527
+1670	Polish	siblings	sister	2913527
+1671	Portuguese	parents	father	3007460
+1672	Portuguese	parents	mother	3007460
+1673	Portuguese	children	son	3007460
+1674	Portuguese	children	daughter	3007460
+1675	Portuguese	cousins	male cousin	3007460
+1676	Portuguese	cousins	female cousin	3007460
+1677	Portuguese	grandchildren	grandson	3007460
+1678	Portuguese	grandchildren	granddaughter	3007460
+1679	Portuguese	grandparents	grandmother	3007460
+1680	Portuguese	grandparents	grandfather	3007460
+1681	Portuguese	nephews and nieces	nephew	3007460
+1682	Portuguese	nephews and nieces	niece	3007460
+1683	Portuguese	uncles and aunts	uncle	3007460
+1684	Portuguese	uncles and aunts	aunt	3007460
+1685	Portuguese	siblings	brother	3007460
+1686	Portuguese	siblings	sister	3007460
+1687	Quechua	parents	father	3017976
+1688	Quechua	parents	mother	3017976
+1689	Quechua	children	son	3017976
+1690	Quechua	children	daughter	3017976
+1691	Quechua	grandparents	grandfather	3017976
+1692	Quechua	grandparents	grandmother	3017976
+1693	Quechua	nephews and nieces	nephew	3017976
+1694	Quechua	nephews and nieces	niece	3017976
+1695	Quechua	siblings	brother (female speaking)	3017976
+1696	Quechua	siblings	brother (male speaking)	3017976
+1697	Quechua	siblings	sister (female speaking)	3017976
+1698	Quechua	siblings	sister (male speaking)	3017976
+1699	Romani	parents	father	1868765
+1700	Romani	parents	mother	1868765
+1701	Romani	children	son	1868765
+1702	Romani	children	daughter	1868765
+1703	Romani	siblings	brother	1868765
+1704	Romani	siblings	sister	1868765
+1705	Romanian	parents	father	2989999
+1706	Romanian	parents	mother	2989999
+1707	Romanian	children	son	2989999
+1708	Romanian	children	daughter	2989999
+1709	Romanian	cousins	male cousin	2989999
+1710	Romanian	cousins	female cousin	2989999
+1711	Romanian	grandparents	grandfather	2989999
+1712	Romanian	grandparents	grandmother	2989999
+1713	Romanian	nephews and nieces	nephew	2989999
+1714	Romanian	nephews and nieces	niece	2989999
+1715	Romanian	uncles and aunts	uncle	2989999
+1716	Romanian	uncles and aunts	aunt	2989999
+1717	Romanian	siblings	brother	2989999
+1718	Romanian	siblings	sister	2989999
+1719	Romansch	parents	father	1868765
+1720	Romansch	parents	mother	1868765
+1721	Romansch	children	son	1868765
+1722	Romansch	children	daughter	1868765
+1723	Romansch	siblings	brother	1868765
+1724	Romansch	siblings	sister	1868765
+1725	Russian	parents	father	3007460
+1726	Russian	parents	mother	3007460
+1727	Russian	children	son	3007460
+1728	Russian	children	daughter	3007460
+1729	Russian	cousins	male cousin	3007460
+1730	Russian	cousins	female cousin	3007460
+1731	Russian	grandchildren	grandson	3007460
+1732	Russian	grandchildren	granddaughter	3007460
+1733	Russian	grandparents	grandfather	3007460
+1734	Russian	grandparents	grandmother	3007460
+1735	Russian	nephews and nieces	nephew	3007460
+1736	Russian	nephews and nieces	niece	3007460
+1737	Russian	uncles and aunts	uncle	3007460
+1738	Russian	uncles and aunts	aunt	3007460
+1739	Russian	siblings	brother	3007460
+1740	Russian	siblings	sister	3007460
+1741	Rusyn	parents	father	1572223
+1742	Rusyn	parents	mother	1572223
+1743	Rusyn	children	son	1572223
+1744	Rusyn	children	daughter	1572223
+1745	Rusyn	uncles and aunts	uncle	1572223
+1746	Rusyn	uncles and aunts	aunt	1572223
+1747	Santali	parents	father	1631262
+1748	Santali	parents	mother	1631262
+1749	Santali	children	son	1631262
+1750	Santali	children	daughter	1631262
+1751	Santali	grandparents	grandfather	1631262
+1752	Santali	grandparents	grandmother	1631262
+1753	Sardinian	parents	father	2768690
+1754	Sardinian	parents	mother	2768690
+1755	Sardinian	children	son	2768690
+1756	Sardinian	children	daughter	2768690
+1757	Sardinian	cousins	male cousin	2768690
+1758	Sardinian	cousins	female cousin	2768690
+1759	Sardinian	siblings	sister	2768690
+1760	Sardinian	siblings	brother	2768690
+1761	Scots	parents	father	1994167
+1762	Scots	parents	mother	1994167
+1763	Scots	children	son	1994167
+1764	Scots	children	daughter	1994167
+1765	Scots	grandparents	grandfather	1994167
+1766	Scots	grandparents	grandmother	1994167
+1767	Scots	siblings	brother	1994167
+1768	Scots	siblings	sister	1994167
+1769	Scottish Gaelic	parents	father	2111706
+1770	Scottish Gaelic	parents	mother	2111706
+1771	Scottish Gaelic	children	son	2111706
+1772	Scottish Gaelic	children	daughter	2111706
+1773	Scottish Gaelic	cousins	cousin	2111706
+1774	Scottish Gaelic	grandchildren	grandchild	2111706
+1775	Scottish Gaelic	grandchildren	son's son	2111706
+1776	Scottish Gaelic	grandchildren	daughter's son	2111706
+1777	Scottish Gaelic	grandchildren	granddaughter	2111706
+1778	Scottish Gaelic	grandchildren	son's daughter	2111706
+1779	Scottish Gaelic	grandchildren	daughter's daughter	2111706
+1780	Scottish Gaelic	grandparents	grandparent	2111706
+1781	Scottish Gaelic	grandparents	grandfather	2111706
+1782	Scottish Gaelic	grandparents	grandmother	2111706
+1783	Scottish Gaelic	nephews and nieces	brother's son	2111706
+1784	Scottish Gaelic	nephews and nieces	sister's son	2111706
+1785	Scottish Gaelic	nephews and nieces	brother's daughter	2111706
+1786	Scottish Gaelic	nephews and nieces	sister's daughter	2111706
+1787	Scottish Gaelic	uncles and aunts	uncle	2111706
+1788	Scottish Gaelic	uncles and aunts	aunt	2111706
+1789	Scottish Gaelic	siblings	brother	2111706
+1790	Scottish Gaelic	siblings	sister	2111706
+1791	Serbo-Croatian	parents	father	2012797
+1792	Serbo-Croatian	parents	mother	2012797
+1793	Serbo-Croatian	children	son	2012797
+1794	Serbo-Croatian	children	daughter	2012797
+1795	Serbo-Croatian	grandchildren	grandchild	2012797
+1796	Serbo-Croatian	grandchildren	grandson	2012797
+1797	Serbo-Croatian	grandchildren	granddaughter	2012797
+1798	Serbo-Croatian	grandparents	grandfather	2012797
+1799	Serbo-Croatian	grandparents	grandmother	2012797
+1800	Serbo-Croatian	siblings	brother	2012797
+1801	Serbo-Croatian	siblings	sister	2012797
+1802	Sicilian	parents	father	1868765
+1803	Sicilian	parents	mother	1868765
+1804	Sicilian	children	son	1868765
+1805	Sicilian	children	daughter	1868765
+1806	Sicilian	siblings	brother	1868765
+1807	Sicilian	siblings	sister	1868765
+1808	Sinhalese	parents	father	2024218
+1809	Sinhalese	parents	mother	2024218
+1810	Sinhalese	children	son	2024218
+1811	Sinhalese	children	daughter	2024218
+1812	Sinhalese	siblings	elder brother	2024218
+1813	Sinhalese	siblings	younger brother	2024218
+1814	Sinhalese	siblings	elder sister	2024218
+1815	Sinhalese	siblings	younger sister	2024218
+1816	Skolt Sami	parents	father	1631262
+1817	Skolt Sami	parents	mother	1631262
+1818	Skolt Sami	children	son	1631262
+1819	Skolt Sami	children	daughter	1631262
+1820	Skolt Sami	grandparents	grandfather	1631262
+1821	Skolt Sami	grandparents	grandmother	1631262
+1822	Slovak	parents	father	2911553
+1823	Slovak	parents	mother	2911553
+1824	Slovak	children	son	2911553
+1825	Slovak	children	daughter	2911553
+1826	Slovak	cousins	male cousin	2911553
+1827	Slovak	cousins	female cousin	2911553
+1828	Slovak	grandchildren	grandson	2911553
+1829	Slovak	grandchildren	granddaughter	2911553
+1830	Slovak	grandparents	grandfather	2911553
+1831	Slovak	grandparents	grandmother	2911553
+1832	Slovak	siblings	brother	2911553
+1833	Slovak	siblings	sister	2911553
+1834	Slovene	parents	father	2978737
+1835	Slovene	parents	mother	2978737
+1836	Slovene	children	son	2978737
+1837	Slovene	children	daughter	2978737
+1838	Slovene	cousins	male cousin	2978737
+1839	Slovene	cousins	female cousin	2978737
+1840	Slovene	grandchildren	grandson	2978737
+1841	Slovene	grandchildren	granddaughter	2978737
+1842	Slovene	grandparents	grandfather	2978737
+1843	Slovene	grandparents	grandmother	2978737
+1844	Slovene	uncles and aunts	uncle	2978737
+1845	Slovene	uncles and aunts	aunt	2978737
+1846	Slovene	siblings	sibling	2978737
+1847	Slovene	siblings	brother	2978737
+1848	Slovene	siblings	sister	2978737
+1849	Spanish	parents	father	3526871
+1850	Spanish	parents	mother	3526871
+1851	Spanish	children	son	3526871
+1852	Spanish	children	daughter	3526871
+1853	Spanish	cousins	male cousin	3526871
+1854	Spanish	cousins	female cousin	3526871
+1855	Spanish	grandchildren	grandson	3526871
+1856	Spanish	grandchildren	granddaughter	3526871
+1857	Spanish	grandparents	grandfather	3526871
+1858	Spanish	grandparents	grandmother	3526871
+1859	Spanish	nephews and nieces	nephew	3526871
+1860	Spanish	nephews and nieces	niece	3526871
+1861	Spanish	uncles and aunts	uncle	3526871
+1862	Spanish	uncles and aunts	aunt	3526871
+1863	Spanish	uncles and aunts	paternal uncle	3526871
+1864	Spanish	uncles and aunts	maternal uncle	3526871
+1865	Spanish	uncles and aunts	paternal aunt	3526871
+1866	Spanish	uncles and aunts	maternal aunt	3526871
+1867	Spanish	siblings	brother	3526871
+1868	Spanish	siblings	sister	3526871
+1869	Spanish	siblings	elder brother	3526871
+1870	Spanish	siblings	elder sister	3526871
+1871	Spanish	siblings	younger brother	3526871
+1872	Spanish	siblings	younger sister	3526871
+1873	Swahili	parents	father	1994167
+1874	Swahili	parents	mother	1994167
+1875	Swahili	children	son	1994167
+1876	Swahili	children	daughter	1994167
+1877	Swahili	grandparents	grandfather	1994167
+1878	Swahili	grandparents	grandmother	1994167
+1879	Swahili	siblings	brother	1994167
+1880	Swahili	siblings	sister	1994167
+1881	Swedish	parents	father	2083156
+1882	Swedish	parents	mother	2083156
+1883	Swedish	children	son	2083156
+1884	Swedish	children	daughter	2083156
+1885	Swedish	grandchildren	grandchild	2083156
+1886	Swedish	grandchildren	son's son	2083156
+1887	Swedish	grandchildren	daughter's son	2083156
+1888	Swedish	grandchildren	son's daughter	2083156
+1889	Swedish	grandchildren	daughter's daughter	2083156
+1890	Swedish	grandparents	paternal grandfather	2083156
+1891	Swedish	grandparents	maternal grandfather	2083156
+1892	Swedish	grandparents	paternal grandmother	2083156
+1893	Swedish	grandparents	maternal grandmother	2083156
+1894	Swedish	nephews and nieces	nephew	2083156
+1895	Swedish	nephews and nieces	niece	2083156
+1896	Swedish	uncles and aunts	uncle	2083156
+1897	Swedish	uncles and aunts	paternal uncle	2083156
+1898	Swedish	uncles and aunts	maternal uncle	2083156
+1899	Swedish	uncles and aunts	aunt	2083156
+1900	Swedish	uncles and aunts	paternal aunt	2083156
+1901	Swedish	uncles and aunts	maternal aunt	2083156
+1902	Swedish	siblings	sibling	2083156
+1903	Swedish	siblings	brother	2083156
+1904	Swedish	siblings	sister	2083156
+1905	Tagalog	parents	father	1697625
+1906	Tagalog	parents	mother	1697625
+1907	Tagalog	children	son	1697625
+1908	Tagalog	children	daughter	1697625
+1909	Tagalog	grandparents	grandfather	1697625
+1910	Tagalog	grandparents	grandmother	1697625
+1911	Tagalog	uncles and aunts	uncle	1697625
+1912	Tagalog	uncles and aunts	aunt	1697625
+1913	Tajik	parents	father	1868765
+1914	Tajik	parents	mother	1868765
+1915	Tajik	children	son	1868765
+1916	Tajik	children	daughter	1868765
+1917	Tajik	siblings	brother	1868765
+1918	Tajik	siblings	sister	1868765
+1919	Tamil	parents	father	2443235
+1920	Tamil	parents	mother	2443235
+1921	Tamil	children	son	2443235
+1922	Tamil	children	daughter	2443235
+1923	Tamil	uncles and aunts	parent's elder sister	2443235
+1924	Tamil	uncles and aunts	parent's younger sister	2443235
+1925	Tamil	uncles and aunts	parent's elder brother	2443235
+1926	Tamil	uncles and aunts	parent's younger brother	2443235
+1927	Tamil	siblings	brother	2443235
+1928	Tamil	siblings	elder brother	2443235
+1929	Tamil	siblings	younger brother	2443235
+1930	Tamil	siblings	sister	2443235
+1931	Tamil	siblings	elder sister	2443235
+1932	Tamil	siblings	younger sister	2443235
+1933	Taos	parents	father	2077818
+1934	Taos	parents	mother	2077818
+1935	Taos	children	son	2077818
+1936	Taos	children	daughter	2077818
+1937	Taos	cousins	cousin	2077818
+1938	Taos	cousins	elder cousin	2077818
+1939	Taos	cousins	younger cousin	2077818
+1940	Taos	grandchildren	grandchild	2077818
+1941	Taos	nephews and nieces	nibling	2077818
+1942	Taos	uncles and aunts	paternal uncle	2077818
+1943	Taos	uncles and aunts	maternal uncle	2077818
+1944	Taos	uncles and aunts	paternal aunt	2077818
+1945	Taos	uncles and aunts	maternal aunt	2077818
+1946	Taos	siblings	younger brother	2077818
+1947	Taos	siblings	elder brother	2077818
+1948	Taos	siblings	younger sister	2077818
+1949	Taos	siblings	elder sister	2077818
+1950	Tatar	parents	father	2176110
+1951	Tatar	parents	mother	2176110
+1952	Tatar	children	son	2176110
+1953	Tatar	children	daughter	2176110
+1954	Tatar	siblings	brother	2176110
+1955	Tatar	siblings	elder brother	2176110
+1956	Tatar	siblings	younger brother	2176110
+1957	Tatar	siblings	sister	2176110
+1958	Telugu	parents	father	1523321
+1959	Telugu	parents	mother	1523321
+1960	Telugu	children	son	1523321
+1961	Telugu	children	daughter	1523321
+1962	Telugu	grandchildren	grandson	1523321
+1963	Telugu	grandchildren	granddaughter	1523321
+1964	Thai	parents	father	1751828
+1965	Thai	parents	mother	1751828
+1966	Thai	children	son	1751828
+1967	Thai	children	daughter	1751828
+1968	Thai	grandchildren	grandchild	1751828
+1969	Thai	grandparents	paternal grandfather	1751828
+1970	Thai	grandparents	maternal grandfather	1751828
+1971	Thai	grandparents	paternal grandmother	1751828
+1972	Thai	grandparents	maternal grandmother	1751828
+1973	Thai	nephews and nieces	nephew	1751828
+1974	Thai	nephews and nieces	niece	1751828
+1975	Thai	uncles and aunts	parent's elder brother	1751828
+1976	Thai	uncles and aunts	father's younger sibling	1751828
+1977	Thai	uncles and aunts	mother's younger sibling	1751828
+1978	Thai	uncles and aunts	parent's elder sister	1751828
+1979	Thai	siblings	elder sibling	1751828
+1980	Thai	siblings	younger sibling	1751828
+1981	Tigrinya	parents	father	1868765
+1982	Tigrinya	parents	mother	1868765
+1983	Tigrinya	children	son	1868765
+1984	Tigrinya	children	daughter	1868765
+1985	Tigrinya	siblings	brother	1868765
+1986	Tigrinya	siblings	sister	1868765
+1987	Tocharian A	parents	father	1868765
+1988	Tocharian A	parents	mother	1868765
+1989	Tocharian A	children	son	1868765
+1990	Tocharian A	children	daughter	1868765
+1991	Tocharian A	siblings	brother	1868765
+1992	Tocharian A	siblings	sister	1868765
+1993	Tocharian B	parents	father	1868765
+1994	Tocharian B	parents	mother	1868765
+1995	Tocharian B	children	son	1868765
+1996	Tocharian B	children	daughter	1868765
+1997	Tocharian B	siblings	brother	1868765
+1998	Tocharian B	siblings	sister	1868765
+1999	Turkish	parents	father	1749588
+2000	Turkish	parents	mother	1749588
+2001	Turkish	children	son	1749588
+2002	Turkish	children	daughter	1749588
+2003	Turkish	cousins	son of father's brother	1749588
+2004	Turkish	cousins	daughter of father's brother	1749588
+2005	Turkish	cousins	son of father's sister	1749588
+2006	Turkish	cousins	daughter of father's sister	1749588
+2007	Turkish	cousins	son of mother's brother	1749588
+2008	Turkish	cousins	daughter of mother's brother	1749588
+2009	Turkish	cousins	son of mother's sister	1749588
+2010	Turkish	cousins	daughter of mother's sister	1749588
+2011	Turkish	cousins	child of father's brother	1749588
+2012	Turkish	cousins	child of father's sister	1749588
+2013	Turkish	cousins	child of mother's brother	1749588
+2014	Turkish	cousins	child of mother's sister	1749588
+2015	Turkish	grandchildren	grandson	1749588
+2016	Turkish	grandchildren	granddaughter	1749588
+2017	Turkish	grandparents	grandfather	1749588
+2018	Turkish	grandparents	grandmother	1749588
+2019	Turkish	nephews and nieces	nibling	1749588
+2020	Turkish	nephews and nieces	nephew	1749588
+2021	Turkish	nephews and nieces	niece	1749588
+2022	Turkish	uncles and aunts	paternal uncle	1749588
+2023	Turkish	uncles and aunts	maternal uncle	1749588
+2024	Turkish	uncles and aunts	paternal aunt	1749588
+2025	Turkish	uncles and aunts	maternal aunt	1749588
+2026	Turoyo	parents	father	1868765
+2027	Turoyo	parents	mother	1868765
+2028	Turoyo	children	son	1868765
+2029	Turoyo	children	daughter	1868765
+2030	Turoyo	siblings	brother	1868765
+2031	Turoyo	siblings	sister	1868765
+2032	Tuvan	parents	father	1713645
+2033	Tuvan	parents	mother	1713645
+2034	Tuvan	children	son	1713645
+2035	Tuvan	children	daughter	1713645
+2036	Tuvan	siblings	elder brother	1713645
+2037	Tuvan	siblings	younger sibling	1713645
+2038	Tuvan	siblings	elder sister	1713645
+2039	Ugaritic	parents	father	1868765
+2040	Ugaritic	parents	mother	1868765
+2041	Ugaritic	children	son	1868765
+2042	Ugaritic	children	daughter	1868765
+2043	Ugaritic	siblings	brother	1868765
+2044	Ugaritic	siblings	sister	1868765
+2045	Ukrainian	parents	father	2077991
+2046	Ukrainian	parents	mother	2077991
+2047	Ukrainian	children	son	2077991
+2048	Ukrainian	children	daughter	2077991
+2049	Ukrainian	grandchildren	grandson	2077991
+2050	Ukrainian	grandchildren	granddaughter	2077991
+2051	Ukrainian	grandparents	grandfather	2077991
+2052	Ukrainian	grandparents	grandmother	2077991
+2053	Ukrainian	uncles and aunts	uncle	2077991
+2054	Ukrainian	uncles and aunts	aunt	2077991
+2055	Ukrainian	siblings	brother	2077991
+2056	Ukrainian	siblings	sister	2077991
+2057	Urdu	parents	father	1868765
+2058	Urdu	parents	mother	1868765
+2059	Urdu	children	son	1868765
+2060	Urdu	children	daughter	1868765
+2061	Urdu	siblings	brother	1868765
+2062	Urdu	siblings	sister	1868765
+2063	Venetian	parents	father	1523321
+2064	Venetian	parents	mother	1523321
+2065	Venetian	children	son	1523321
+2066	Venetian	children	daughter	1523321
+2067	Venetian	grandchildren	grandson	1523321
+2068	Venetian	grandchildren	granddaughter	1523321
+2069	Vietnamese	parents	father	2152840
+2070	Vietnamese	parents	mother	2152840
+2071	Vietnamese	children	son	2152840
+2072	Vietnamese	children	daughter	2152840
+2073	Vietnamese	cousins	elder male cousin	2152840
+2074	Vietnamese	cousins	elder female cousin	2152840
+2075	Vietnamese	cousins	younger cousin	2152840
+2076	Vietnamese	grandchildren	grandchild	2152840
+2077	Vietnamese	grandparents	grandfather	2152840
+2078	Vietnamese	grandparents	grandmother	2152840
+2079	Vietnamese	uncles and aunts	father's elder brother	2152840
+2080	Vietnamese	uncles and aunts	father's younger brother	2152840
+2081	Vietnamese	uncles and aunts	maternal uncle	2152840
+2082	Vietnamese	uncles and aunts	paternal aunt	2152840
+2083	Vietnamese	uncles and aunts	maternal aunt	2152840
+2084	Vietnamese	siblings	elder brother	2152840
+2085	Vietnamese	siblings	elder sister	2152840
+2086	Vietnamese	siblings	younger sibling	2152840
+2087	Volapük	parents	father	3051896
+2088	Volapük	parents	mother	3051896
+2089	Volapük	children	son	3051896
+2090	Volapük	children	daughter	3051896
+2091	Volapük	cousins	cousin	3051896
+2092	Volapük	cousins	male cousin	3051896
+2093	Volapük	cousins	female cousin	3051896
+2094	Volapük	grandchildren	grandchild	3051896
+2095	Volapük	grandchildren	grandson	3051896
+2096	Volapük	grandchildren	granddaughter	3051896
+2097	Volapük	grandparents	grandparent	3051896
+2098	Volapük	grandparents	grandfather	3051896
+2099	Volapük	grandparents	grandmother	3051896
+2100	Volapük	nephews and nieces	nibling	3051896
+2101	Volapük	nephews and nieces	nephew	3051896
+2102	Volapük	nephews and nieces	niece	3051896
+2103	Volapük	uncles and aunts	auncle	3051896
+2104	Volapük	uncles and aunts	uncle	3051896
+2105	Volapük	uncles and aunts	aunt	3051896
+2106	Volapük	siblings	sibling	3051896
+2107	Volapük	siblings	brother	3051896
+2108	Volapük	siblings	sister	3051896
+2109	Votic	parents	father	1868765
+2110	Votic	parents	mother	1868765
+2111	Votic	children	son	1868765
+2112	Votic	children	daughter	1868765
+2113	Votic	siblings	brother	1868765
+2114	Votic	siblings	sister	1868765
+2115	Welsh	parents	father	3007460
+2116	Welsh	parents	mother	3007460
+2117	Welsh	children	son	3007460
+2118	Welsh	children	daughter	3007460
+2119	Welsh	cousins	male cousin	3007460
+2120	Welsh	cousins	female cousin	3007460
+2121	Welsh	grandchildren	grandson	3007460
+2122	Welsh	grandchildren	granddaughter	3007460
+2123	Welsh	grandparents	grandfather	3007460
+2124	Welsh	grandparents	grandmother	3007460
+2125	Welsh	nephews and nieces	nephew	3007460
+2126	Welsh	nephews and nieces	niece	3007460
+2127	Welsh	uncles and aunts	uncle	3007460
+2128	Welsh	uncles and aunts	aunt	3007460
+2129	Welsh	siblings	brother	3007460
+2130	Welsh	siblings	sister	3007460
+2131	West Frisian	parents	father	1697625
+2132	West Frisian	parents	mother	1697625
+2133	West Frisian	children	son	1697625
+2134	West Frisian	children	daughter	1697625
+2135	West Frisian	grandparents	grandfather	1697625
+2136	West Frisian	grandparents	grandmother	1697625
+2137	West Frisian	uncles and aunts	uncle	1697625
+2138	West Frisian	uncles and aunts	aunt	1697625
+2139	Xhosa	parents	father	2076902
+2140	Xhosa	parents	mother	2076902
+2141	Xhosa	children	son	2076902
+2142	Xhosa	children	daughter	2076902
+2143	Xhosa	cousins	cousin	2076902
+2144	Xhosa	grandchildren	grandchild	2076902
+2145	Xhosa	grandparents	grandmother	2076902
+2146	Xhosa	grandparents	grandfather	2076902
+2147	Xhosa	nephews and nieces	nibling	2076902
+2148	Xhosa	uncles and aunts	uncle	2076902
+2149	Xhosa	uncles and aunts	paternal aunt	2076902
+2150	Xhosa	uncles and aunts	maternal aunt	2076902
+2151	Xhosa	siblings	brother	2076902
+2152	Xhosa	siblings	sister	2076902
+2153	Yámana	parents	father	2090074
+2154	Yámana	parents	mother	2090074
+2155	Yámana	children	son	2090074
+2156	Yámana	children	daughter	2090074
+2157	Yámana	grandparents	grandfather	2090074
+2158	Yámana	grandparents	grandmother	2090074
+2159	Yámana	nephews and nieces	nephew	2090074
+2160	Yámana	nephews and nieces	niece	2090074
+2161	Yámana	uncles and aunts	uncle	2090074
+2162	Yámana	uncles and aunts	aunt	2090074
+2163	Yámana	siblings	brother	2090074
+2164	Yámana	siblings	sister	2090074
+2165	Yagnobi	parents	father	1868765
+2166	Yagnobi	parents	mother	1868765
+2167	Yagnobi	children	son	1868765
+2168	Yagnobi	children	daughter	1868765
+2169	Yagnobi	siblings	brother	1868765
+2170	Yagnobi	siblings	sister	1868765
+2171	Yiddish	parents	father	2108704
+2172	Yiddish	parents	mother	2108704
+2173	Yiddish	children	son	2108704
+2174	Yiddish	children	daughter	2108704
+2175	Yiddish	grandchildren	grandchild	2108704
+2176	Yiddish	grandchildren	grandson	2108704
+2177	Yiddish	grandchildren	granddaughter	2108704
+2178	Yiddish	grandparents	grandfather	2108704
+2179	Yiddish	grandparents	grandmother	2108704
+2180	Yiddish	nephews and nieces	nephew	2108704
+2181	Yiddish	nephews and nieces	niece	2108704
+2182	Yiddish	uncles and aunts	uncle	2108704
+2183	Yiddish	uncles and aunts	aunt	2108704
+2184	Yiddish	siblings	brother	2108704
+2185	Yiddish	siblings	sister	2108704
+2186	Yoruba	parents	father	1516971
+2187	Yoruba	parents	mother	1516971
+2188	Yoruba	children	son	1516971
+2189	Yoruba	children	daughter	1516971
+2190	Yoruba	siblings	younger sibling	1516971
+2191	Yoruba	siblings	elder sibling	1516971
+2192	Zhuang	parents	father	1516971
+2193	Zhuang	parents	mother	1516971
+2194	Zhuang	children	son	1516971
+2195	Zhuang	children	daughter	1516971
+2196	Zhuang	siblings	elder sibling	1516971
+2197	Zhuang	siblings	younger sibling	1516971
+2198	Zulu	parents	father	1868765
+2199	Zulu	parents	mother	1868765
+2200	Zulu	children	son	1868765
+2201	Zulu	children	daughter	1868765
+2202	Zulu	siblings	brother	1868765
+2203	Zulu	siblings	sister	1868765
